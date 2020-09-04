@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 9885ed8470898434c82d98c8bbfd9e85
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: efLocator_under_401_J_R_leg_422
+    100002: efLocator_under_401_J_R_leg_422_end
+    100004: efLocator_under_402_J_R_leg_422
+    100006: efLocator_under_402_J_R_leg_422_end
+    100008: efLocator_under_403_J_R_leg_422
+    100010: efLocator_under_403_J_R_leg_422_end
+    100012: efLocator_under_404_J_L_leg_432
+    100014: efLocator_under_404_J_L_leg_432_end
+    100016: efLocator_under_405_J_L_leg_432
+    100018: efLocator_under_405_J_L_leg_432_end
+    100020: efLocator_under_406_J_L_leg_432
+    100022: efLocator_under_406_J_L_leg_432_end
+    100024: HG_2460_J_underExtra_480
+    100026: HG_2460_J_underExtra_480_end
+    100028: HG_2460_J_underExtra_481
+    100030: HG_2460_J_underExtra_481_end
+    100032: HG_2460_J_underExtra_482
+    100034: HG_2460_J_underExtra_482_end
+    100036: HG_2460_J_underExtra_483
+    100038: HG_2460_J_underExtra_483_end
+    100040: //RootNode
+    100042: HG_2465.ao
+    100044: HG_2465.mo
+    100046: J_C_skirtB_447
+    100048: J_C_skirtB_447_end
+    100050: J_C_skirtF_446
+    100052: J_C_skirtF_446_end
+    100054: J_hip_400
+    100056: J_L_foot_433
+    100058: J_L_ftArmor_435
+    100060: J_L_ftArmor_435_end
+    100062: J_L_knee_431
+    100064: J_L_leg_432
+    100066: J_L_skirtB_444
+    100068: J_L_skirtB_444_end
+    100070: J_L_skirtF_443
+    100072: J_L_skirtF_443_end
+    100074: J_L_skirtS_445
+    100076: J_L_skirtS_445_end
+    100078: J_L_toe_434
+    100080: J_L_toe_434_end
+    100082: J_L_upLeg_430
+    100084: J_R_foot_423
+    100086: J_R_ftArmor_425
+    100088: J_R_ftArmor_425_end
+    100090: J_R_knee_421
+    100092: J_R_leg_422
+    100094: J_R_skirtB_441
+    100096: J_R_skirtB_441_end
+    100098: J_R_skirtF_440
+    100100: J_R_skirtF_440_end
+    100102: J_R_skirtS_442
+    100104: J_R_skirtS_442_end
+    100106: J_R_toe_424
+    100108: J_R_toe_424_end
+    100110: J_R_upLeg_420
+    100112: jointroot_000
+    100114: root
+    100116: rot_y
+    100118: rot_y_end
+    400000: efLocator_under_401_J_R_leg_422
+    400002: efLocator_under_401_J_R_leg_422_end
+    400004: efLocator_under_402_J_R_leg_422
+    400006: efLocator_under_402_J_R_leg_422_end
+    400008: efLocator_under_403_J_R_leg_422
+    400010: efLocator_under_403_J_R_leg_422_end
+    400012: efLocator_under_404_J_L_leg_432
+    400014: efLocator_under_404_J_L_leg_432_end
+    400016: efLocator_under_405_J_L_leg_432
+    400018: efLocator_under_405_J_L_leg_432_end
+    400020: efLocator_under_406_J_L_leg_432
+    400022: efLocator_under_406_J_L_leg_432_end
+    400024: HG_2460_J_underExtra_480
+    400026: HG_2460_J_underExtra_480_end
+    400028: HG_2460_J_underExtra_481
+    400030: HG_2460_J_underExtra_481_end
+    400032: HG_2460_J_underExtra_482
+    400034: HG_2460_J_underExtra_482_end
+    400036: HG_2460_J_underExtra_483
+    400038: HG_2460_J_underExtra_483_end
+    400040: //RootNode
+    400042: HG_2465.ao
+    400044: HG_2465.mo
+    400046: J_C_skirtB_447
+    400048: J_C_skirtB_447_end
+    400050: J_C_skirtF_446
+    400052: J_C_skirtF_446_end
+    400054: J_hip_400
+    400056: J_L_foot_433
+    400058: J_L_ftArmor_435
+    400060: J_L_ftArmor_435_end
+    400062: J_L_knee_431
+    400064: J_L_leg_432
+    400066: J_L_skirtB_444
+    400068: J_L_skirtB_444_end
+    400070: J_L_skirtF_443
+    400072: J_L_skirtF_443_end
+    400074: J_L_skirtS_445
+    400076: J_L_skirtS_445_end
+    400078: J_L_toe_434
+    400080: J_L_toe_434_end
+    400082: J_L_upLeg_430
+    400084: J_R_foot_423
+    400086: J_R_ftArmor_425
+    400088: J_R_ftArmor_425_end
+    400090: J_R_knee_421
+    400092: J_R_leg_422
+    400094: J_R_skirtB_441
+    400096: J_R_skirtB_441_end
+    400098: J_R_skirtF_440
+    400100: J_R_skirtF_440_end
+    400102: J_R_skirtS_442
+    400104: J_R_skirtS_442_end
+    400106: J_R_toe_424
+    400108: J_R_toe_424_end
+    400110: J_R_upLeg_420
+    400112: jointroot_000
+    400114: root
+    400116: rot_y
+    400118: rot_y_end
+    2100000: MI_HG_2465
+    4300000: HG_2465.mo
+    9500000: //RootNode
+    13700000: HG_2465.mo
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

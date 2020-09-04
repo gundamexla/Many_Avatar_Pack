@@ -1,0 +1,68 @@
+root ground: 0 29 -8.5 0.07199991 0.03200002 0.5599998 1 1 1
+root hips: 0 0 0 0 0.03100004 0 1 1 1
+leg right thigh: 14.5 -20 4.5 0 0 0 1 1 1
+leg right knee: 7 0 0 0 0 0 1 1 1
+leg right ankle: -18 14 2.5 0 0 0 1 1 1
+leg right toes: 0 0 0 0 0 0 1 1 1
+leg left thigh: -19.5 -28.5 26 0 0 0 1 1 1
+leg left knee: 40.5 0 0 0 0 0 1 1 1
+leg left ankle: 3.5 2 -13 0 0 0 1 1 1
+leg left toes: -13 0 0 0 0 0 1 1 1
+spine lower: -3 -11.5 0 0 0 0 1 1 1
+spine upper: 5.5 0 10.5 0 0 0 1 1 1
+arm right shoulder 1: 0 0 0 0 0 0 1 1 1
+arm right shoulder 2: 59 31.5 13.5 0 0 0 1 1 1
+arm right elbow: -34 119 -60.5 0 0 0 1 1 1
+arm right wrist: 64.5 81 60.5 0 0 0 1 1 1
+arm right finger 4a: -22.5 -3.5 26 0 0 0 1 1 1
+arm right finger 4b: 0 0 40 0 0 0 1 1 1
+arm right finger 4c: 0 0 34 0 0 0 1 1 1
+arm right finger 3a: -6 0 27 0 0 0 1 1 1
+arm right finger 3b: 0 0 57 0 0 0 1 1 1
+arm right finger 3c: 0 0 48.5 0 0 0 1 1 1
+arm right finger 1a: 29 0 -50 0 0 0 1 1 1
+arm right finger 1b: 0 0 0 0 0 0 1 1 1
+arm right finger 1c: 0 0 0 0 0 0 1 1 1
+arm right finger 2a: 9.5 -5 26.5 0 0 0 1 1 1
+arm right finger 2b: 0 0 43.5 0 0 0 1 1 1
+arm right finger 2c: 0 0 54 0 0 0 1 1 1
+arm right finger 5a: -34.5 0 20.5 0 0 0 1 1 1
+arm right finger 5b: 0 0 24 0 0 0 1 1 1
+arm right finger 5c: 0 0 11 0 0 0 1 1 1
+arm left shoulder 1: 4.5 0 5.5 0 0 0 1 1 1
+arm left shoulder 2: -1.5 20 -25 0 0 0 1 1 1
+arm left elbow: -26.5 1.5 23.5 0 0 0 1 1 1
+arm left wrist: 0 -37 28.5 0 0 0 1 1 1
+arm left finger 3a: 0 0 0 0 0 0 1 1 1
+arm left finger 3b: 0 0 0 0 0 0 1 1 1
+arm left finger 3c: 0 0 0 0 0 0 1 1 1
+arm left finger 4a: 9 0 -16 0 0 0 1 1 1
+arm left finger 4b: 0 0 0 0 0 0 1 1 1
+arm left finger 4c: 0 0 0 0 0 0 1 1 1
+arm left finger 1a: 3.5 0 -3.5 0 0.005 0 1 1 1
+arm left finger 1b: 0 0 0 0 0 0 1 1 1
+arm left finger 1c: 0 0 0 0 0 0 1 1 1
+arm left finger 2a: 0 -17.5 11.5 0 0 0 1 1 1
+arm left finger 2b: 0 0 0 0 0 0 1 1 1
+arm left finger 2c: 0 0 0 0 0 0 1 1 1
+arm left finger 5a: 11 7.5 -23.5 0 0 0 1 1 1
+arm left finger 5b: 0 0 0 0 0 0 1 1 1
+arm left finger 5c: 0 0 0 0 0 0 1 1 1
+head neck lower: 0 24 0 0 0 0 1 1 1
+head neck upper: 26.5 -6 -2 0 0 0 1 1 1
+hair tail right a: 0 0 0 0 0 0 1 1 1
+hair tail right b: 0 0 0 0 0 0 1 1 1
+hair tail right c: 0 0 0 0 0 0 1 1 1
+hair left a: 0 0 0 0 0 0 1 1 1
+hair left b: 0 0 0 0 0 0 1 1 1
+hair left c: 0 0 0 0 0 0 1 1 1
+hair tail left a: 0 0 0 0 0 0 1 1 1
+hair tail left b: 0 0 0 0 0 0 1 1 1
+hair tail left c: 0 0 0 0 0 0 1 1 1
+hair right a: 0 0 0 0 0 0 1 1 1
+hair right b: 0 0 0 0 0 0 1 1 1
+hair right c: 0 0 0 0 0 0 1 1 1
+hair middle a: 0 0 0 0 0 0 1 1 1
+hair middle b: 0 0 0 0 0 0 1 1 1
+hair middle c: 0 0 0 0 0 0 1 1 1
+blush root: 0 0 0 0 0 0 1 1 1

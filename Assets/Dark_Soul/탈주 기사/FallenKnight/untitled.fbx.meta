@@ -1,0 +1,721 @@
+fileFormatVersion: 2
+guid: 3fd4c3f6a7f066343a5455a84aff2e97
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 24_part1-armorplates_1_16_16
+    100002: 24_part2-armgloves_1_16_16
+    100004: 24_part2-armplate_1_16_16
+    100006: 24_part3-hdfc_1_16_16
+    100008: 24_part3-helmet_1_16_16
+    100010: 25_part1-body_1_16_16
+    100012: 25_part1-clothA_1_16_16
+    100014: 25_part1-clothB_1_16_16
+    100016: 25_part1-clothC_1_16_16
+    100018: 25_part1-skirtA_1_16_16
+    100020: 25_part1-skirtB_1_16_16
+    100022: 25_part2-armcloth_1_16_16
+    100024: 25_part3-hood_1_16_16
+    100026: 25_part4-legs_1_16_16
+    100028: 25_part4-legsB_1_16_16
+    100030: arm left elbow
+    100032: arm left finger 0
+    100034: arm left finger 01
+    100036: arm left finger 02
+    100038: arm left finger 1
+    100040: arm left finger 11
+    100042: arm left finger 12
+    100044: arm left finger 2
+    100046: arm left finger 21
+    100048: arm left finger 22
+    100050: arm left finger 3
+    100052: arm left finger 31
+    100054: arm left finger 32
+    100056: arm left finger 4
+    100058: arm left finger 41
+    100060: arm left finger 42
+    100062: arm left forearm
+    100064: arm left forearmtwist
+    100066: arm left forearmtwist1
+    100068: arm left shoulder 1
+    100070: arm left shoulder 2
+    100072: arm left shoulder adj
+    100074: arm left shoulder twist
+    100076: arm left shoulder twist1
+    100078: arm left wrist
+    100080: arm right elbow
+    100082: arm right finger 0
+    100084: arm right finger 01
+    100086: arm right finger 02
+    100088: arm right finger 1
+    100090: arm right finger 11
+    100092: arm right finger 12
+    100094: arm right finger 2
+    100096: arm right finger 21
+    100098: arm right finger 22
+    100100: arm right finger 3
+    100102: arm right finger 31
+    100104: arm right finger 32
+    100106: arm right finger 4
+    100108: arm right finger 41
+    100110: arm right finger 42
+    100112: arm right forearm
+    100114: arm right forearmtwist2
+    100116: arm right forearmtwist3
+    100118: arm right shoulder 1
+    100120: arm right shoulder 2
+    100122: arm right shoulder adj
+    100124: arm right shoulder twist2
+    100126: arm right shoulder twist3
+    100128: arm right wrist
+    100130: Armature
+    100132: head neck lower
+    100134: head neck upper
+    100136: L FootTwist
+    100138: L Hip
+    100140: L Pectoral
+    100142: leg left ankle
+    100144: leg left calftwist
+    100146: leg left calftwist1
+    100148: leg left knee
+    100150: leg left kneetwist
+    100152: leg left thigh
+    100154: leg left thightwist
+    100156: leg left thightwist1
+    100158: leg left toe0
+    100160: leg right ankle
+    100162: leg right calftwist
+    100164: leg right calftwist1
+    100166: leg right knee
+    100168: leg right kneetwist
+    100170: leg right thigh
+    100172: leg right thightwist
+    100174: leg right thightwist1
+    100176: leg right toe0
+    100178: pelvis
+    100180: R FootTwist
+    100182: R Hip
+    100184: R Pectoral
+    100186: root skeleton
+    100188: root twist
+    100190: skirt left thigh
+    100192: skirt left thightwist
+    100194: skirt left thightwist_end
+    100196: skirt right thigh
+    100198: skirt right thightwist
+    100200: skirt right thightwist_end
+    100202: spine lower
+    100204: spine middle
+    100206: spine upper
+    100208: //RootNode
+    100210: unused ready to delete  armor spine 1
+    100212: unused ready to delete  armor spine 2
+    100214: unused ready to delete arm left weapon
+    100216: unused ready to delete arm right weapon
+    100218: unused ready to delete B Wepon Case
+    100220: unused ready to delete B Wepon Case end
+    100222: unused ready to delete B Wepon Case end_end
+    100224: unused ready to delete B Wepon Case0 L
+    100226: unused ready to delete B Wepon Case0 L end
+    100228: unused ready to delete B Wepon Case0 L end_end
+    100230: unused ready to delete B Wepon Case0 R
+    100232: unused ready to delete B Wepon Case0 R end
+    100234: unused ready to delete B Wepon Case0 R end_end
+    100236: unused ready to delete Collar
+    100238: unused ready to delete Collar end
+    100240: unused ready to delete Collar end_end
+    100242: unused ready to delete Head end
+    100244: unused ready to delete Head end_end
+    100246: unused ready to delete L Calf Skirt
+    100248: unused ready to delete L Calf Skirt end
+    100250: unused ready to delete L Calf Skirt end_end
+    100252: unused ready to delete L CalfTwist end
+    100254: unused ready to delete L CalfTwist end_end
+    100256: unused ready to delete L CalfTwist1 end
+    100258: unused ready to delete L CalfTwist1 end_end
+    100260: unused ready to delete L Elbow end
+    100262: unused ready to delete L Elbow end_end
+    100264: unused ready to delete L Finger02 end
+    100266: unused ready to delete L Finger02 end_end
+    100268: unused ready to delete L Finger12 end
+    100270: unused ready to delete L Finger12 end_end
+    100272: unused ready to delete L Finger22 end
+    100274: unused ready to delete L Finger22 end_end
+    100276: unused ready to delete L Finger32 end
+    100278: unused ready to delete L Finger32 end_end
+    100280: unused ready to delete L Finger42 end
+    100282: unused ready to delete L Finger42 end_end
+    100284: unused ready to delete L Foot Target end
+    100286: unused ready to delete L Foot Target end_end
+    100288: unused ready to delete L FootTwist end
+    100290: unused ready to delete L FootTwist end_end
+    100292: unused ready to delete L ForeArmTwist end
+    100294: unused ready to delete L ForeArmTwist end_end
+    100296: unused ready to delete L ForeArmTwist1 end
+    100298: unused ready to delete L ForeArmTwist1 end_end
+    100300: unused ready to delete L Hip end
+    100302: unused ready to delete L Hip end_end
+    100304: unused ready to delete L Knee end
+    100306: unused ready to delete L Knee end_end
+    100308: unused ready to delete L Knee Skirt
+    100310: unused ready to delete L Knee Skirt end
+    100312: unused ready to delete L Knee Skirt end_end
+    100314: unused ready to delete L Pectoral end
+    100316: unused ready to delete L Pectoral end_end
+    100318: unused ready to delete L Po
+    100320: unused ready to delete L Po end
+    100322: unused ready to delete L Po end_end
+    100324: unused ready to delete L Shield
+    100326: unused ready to delete L Shield end
+    100328: unused ready to delete L Shield end_end
+    100330: unused ready to delete L Shoulder end
+    100332: unused ready to delete L Shoulder end_end
+    100334: unused ready to delete L Thigh Skirt
+    100336: unused ready to delete L Thigh Skirt end
+    100338: unused ready to delete L Thigh Skirt end_end
+    100340: unused ready to delete L ThighTwist end
+    100342: unused ready to delete L ThighTwist end_end
+    100344: unused ready to delete L ThighTwist1 end
+    100346: unused ready to delete L ThighTwist1 end_end
+    100348: unused ready to delete L Toe0 end
+    100350: unused ready to delete L Toe0 end_end
+    100352: unused ready to delete L UpArmTwist end
+    100354: unused ready to delete L UpArmTwist end_end
+    100356: unused ready to delete L UpArmTwist1 end
+    100358: unused ready to delete L UpArmTwist1 end_end
+    100360: unused ready to delete L Weapon end
+    100362: unused ready to delete L Weapon end_end
+    100364: unused ready to delete L Wepon Case
+    100366: unused ready to delete L Wepon Case end
+    100368: unused ready to delete L Wepon Case end_end
+    100370: unused ready to delete leg left foot target
+    100372: unused ready to delete leg left foot target1
+    100374: unused ready to delete leg left foot target2
+    100376: unused ready to delete leg right foot target
+    100378: unused ready to delete leg right foot target1
+    100380: unused ready to delete leg right foot target2
+    100382: unused ready to delete R Calf Skirt
+    100384: unused ready to delete R Calf Skirt end
+    100386: unused ready to delete R Calf Skirt end_end
+    100388: unused ready to delete R CalfTwist end
+    100390: unused ready to delete R CalfTwist end_end
+    100392: unused ready to delete R CalfTwist1 end
+    100394: unused ready to delete R CalfTwist1 end_end
+    100396: unused ready to delete R Elbow end
+    100398: unused ready to delete R Elbow end_end
+    100400: unused ready to delete R Finger02 end
+    100402: unused ready to delete R Finger02 end_end
+    100404: unused ready to delete R Finger12 end
+    100406: unused ready to delete R Finger12 end_end
+    100408: unused ready to delete R Finger22 end
+    100410: unused ready to delete R Finger22 end_end
+    100412: unused ready to delete R Finger32 end
+    100414: unused ready to delete R Finger32 end_end
+    100416: unused ready to delete R Finger42 end
+    100418: unused ready to delete R Finger42 end_end
+    100420: unused ready to delete R Foot Target end
+    100422: unused ready to delete R Foot Target end_end
+    100424: unused ready to delete R FootTwist end
+    100426: unused ready to delete R FootTwist end_end
+    100428: unused ready to delete R ForeArmTwist end
+    100430: unused ready to delete R ForeArmTwist end_end
+    100432: unused ready to delete R ForeArmTwist1 end
+    100434: unused ready to delete R ForeArmTwist1 end_end
+    100436: unused ready to delete R Hip end
+    100438: unused ready to delete R Hip end_end
+    100440: unused ready to delete R Knee end
+    100442: unused ready to delete R Knee end_end
+    100444: unused ready to delete R Knee Skirt
+    100446: unused ready to delete R Knee Skirt end
+    100448: unused ready to delete R Knee Skirt end_end
+    100450: unused ready to delete R Pectoral end
+    100452: unused ready to delete R Pectoral end_end
+    100454: unused ready to delete R Po
+    100456: unused ready to delete R Po end
+    100458: unused ready to delete R Po end_end
+    100460: unused ready to delete R Shield
+    100462: unused ready to delete R Shield end
+    100464: unused ready to delete R Shield end_end
+    100466: unused ready to delete R Shoulder end
+    100468: unused ready to delete R Shoulder end_end
+    100470: unused ready to delete R Thigh Skirt
+    100472: unused ready to delete R Thigh Skirt end
+    100474: unused ready to delete R Thigh Skirt end_end
+    100476: unused ready to delete R ThighTwist end
+    100478: unused ready to delete R ThighTwist end_end
+    100480: unused ready to delete R ThighTwist1 end
+    100482: unused ready to delete R ThighTwist1 end_end
+    100484: unused ready to delete R Toe0 end
+    100486: unused ready to delete R Toe0 end_end
+    100488: unused ready to delete R UpArmTwist end
+    100490: unused ready to delete R UpArmTwist end_end
+    100492: unused ready to delete R UpArmTwist1 end
+    100494: unused ready to delete R UpArmTwist1 end_end
+    100496: unused ready to delete R Weapon end
+    100498: unused ready to delete R Weapon end_end
+    100500: unused ready to delete R Wepon Case
+    100502: unused ready to delete R Wepon Case end
+    100504: unused ready to delete R Wepon Case end_end
+    100506: unused ready to delete RootPos
+    100508: unused ready to delete RootRotXZ
+    100510: unused ready to delete RootRotY
+    100512: unused ready to delete skirt left ankle
+    100514: unused ready to delete skirt left calftwist
+    100516: unused ready to delete skirt left calftwist1
+    100518: unused ready to delete skirt left calftwist1_end
+    100520: unused ready to delete skirt left calftwist_end
+    100522: unused ready to delete skirt left foot target
+    100524: unused ready to delete skirt left foot target1
+    100526: unused ready to delete skirt left foot target2
+    100528: unused ready to delete skirt left foot target_end
+    100530: unused ready to delete skirt left knee
+    100532: unused ready to delete skirt left kneetwist
+    100534: unused ready to delete skirt left kneetwist_end
+    100536: unused ready to delete skirt left thightwist1
+    100538: unused ready to delete skirt left thightwist1_end
+    100540: unused ready to delete skirt left toe0
+    100542: unused ready to delete skirt left toe0_end
+    100544: unused ready to delete skirt right ankle
+    100546: unused ready to delete skirt right calftwist
+    100548: unused ready to delete skirt right calftwist1
+    100550: unused ready to delete skirt right calftwist1_end
+    100552: unused ready to delete skirt right calftwist_end
+    100554: unused ready to delete skirt right foot target
+    100556: unused ready to delete skirt right foot target1
+    100558: unused ready to delete skirt right foot target2
+    100560: unused ready to delete skirt right foot target_end
+    100562: unused ready to delete skirt right knee
+    100564: unused ready to delete skirt right kneetwist
+    100566: unused ready to delete skirt right kneetwist_end
+    100568: unused ready to delete skirt right thightwist1
+    100570: unused ready to delete skirt right thightwist1_end
+    100572: unused ready to delete skirt right toe0
+    100574: unused ready to delete skirt right toe0_end
+    100576: unused ready to delete SpineArmor1 end
+    100578: unused ready to delete SpineArmor1 end_end
+    100580: unused ready to delete SpineArmor2 end
+    100582: unused ready to delete SpineArmor2 end_end
+    400000: 24_part1-armorplates_1_16_16
+    400002: 24_part2-armgloves_1_16_16
+    400004: 24_part2-armplate_1_16_16
+    400006: 24_part3-hdfc_1_16_16
+    400008: 24_part3-helmet_1_16_16
+    400010: 25_part1-body_1_16_16
+    400012: 25_part1-clothA_1_16_16
+    400014: 25_part1-clothB_1_16_16
+    400016: 25_part1-clothC_1_16_16
+    400018: 25_part1-skirtA_1_16_16
+    400020: 25_part1-skirtB_1_16_16
+    400022: 25_part2-armcloth_1_16_16
+    400024: 25_part3-hood_1_16_16
+    400026: 25_part4-legs_1_16_16
+    400028: 25_part4-legsB_1_16_16
+    400030: arm left elbow
+    400032: arm left finger 0
+    400034: arm left finger 01
+    400036: arm left finger 02
+    400038: arm left finger 1
+    400040: arm left finger 11
+    400042: arm left finger 12
+    400044: arm left finger 2
+    400046: arm left finger 21
+    400048: arm left finger 22
+    400050: arm left finger 3
+    400052: arm left finger 31
+    400054: arm left finger 32
+    400056: arm left finger 4
+    400058: arm left finger 41
+    400060: arm left finger 42
+    400062: arm left forearm
+    400064: arm left forearmtwist
+    400066: arm left forearmtwist1
+    400068: arm left shoulder 1
+    400070: arm left shoulder 2
+    400072: arm left shoulder adj
+    400074: arm left shoulder twist
+    400076: arm left shoulder twist1
+    400078: arm left wrist
+    400080: arm right elbow
+    400082: arm right finger 0
+    400084: arm right finger 01
+    400086: arm right finger 02
+    400088: arm right finger 1
+    400090: arm right finger 11
+    400092: arm right finger 12
+    400094: arm right finger 2
+    400096: arm right finger 21
+    400098: arm right finger 22
+    400100: arm right finger 3
+    400102: arm right finger 31
+    400104: arm right finger 32
+    400106: arm right finger 4
+    400108: arm right finger 41
+    400110: arm right finger 42
+    400112: arm right forearm
+    400114: arm right forearmtwist2
+    400116: arm right forearmtwist3
+    400118: arm right shoulder 1
+    400120: arm right shoulder 2
+    400122: arm right shoulder adj
+    400124: arm right shoulder twist2
+    400126: arm right shoulder twist3
+    400128: arm right wrist
+    400130: Armature
+    400132: head neck lower
+    400134: head neck upper
+    400136: L FootTwist
+    400138: L Hip
+    400140: L Pectoral
+    400142: leg left ankle
+    400144: leg left calftwist
+    400146: leg left calftwist1
+    400148: leg left knee
+    400150: leg left kneetwist
+    400152: leg left thigh
+    400154: leg left thightwist
+    400156: leg left thightwist1
+    400158: leg left toe0
+    400160: leg right ankle
+    400162: leg right calftwist
+    400164: leg right calftwist1
+    400166: leg right knee
+    400168: leg right kneetwist
+    400170: leg right thigh
+    400172: leg right thightwist
+    400174: leg right thightwist1
+    400176: leg right toe0
+    400178: pelvis
+    400180: R FootTwist
+    400182: R Hip
+    400184: R Pectoral
+    400186: root skeleton
+    400188: root twist
+    400190: skirt left thigh
+    400192: skirt left thightwist
+    400194: skirt left thightwist_end
+    400196: skirt right thigh
+    400198: skirt right thightwist
+    400200: skirt right thightwist_end
+    400202: spine lower
+    400204: spine middle
+    400206: spine upper
+    400208: //RootNode
+    400210: unused ready to delete  armor spine 1
+    400212: unused ready to delete  armor spine 2
+    400214: unused ready to delete arm left weapon
+    400216: unused ready to delete arm right weapon
+    400218: unused ready to delete B Wepon Case
+    400220: unused ready to delete B Wepon Case end
+    400222: unused ready to delete B Wepon Case end_end
+    400224: unused ready to delete B Wepon Case0 L
+    400226: unused ready to delete B Wepon Case0 L end
+    400228: unused ready to delete B Wepon Case0 L end_end
+    400230: unused ready to delete B Wepon Case0 R
+    400232: unused ready to delete B Wepon Case0 R end
+    400234: unused ready to delete B Wepon Case0 R end_end
+    400236: unused ready to delete Collar
+    400238: unused ready to delete Collar end
+    400240: unused ready to delete Collar end_end
+    400242: unused ready to delete Head end
+    400244: unused ready to delete Head end_end
+    400246: unused ready to delete L Calf Skirt
+    400248: unused ready to delete L Calf Skirt end
+    400250: unused ready to delete L Calf Skirt end_end
+    400252: unused ready to delete L CalfTwist end
+    400254: unused ready to delete L CalfTwist end_end
+    400256: unused ready to delete L CalfTwist1 end
+    400258: unused ready to delete L CalfTwist1 end_end
+    400260: unused ready to delete L Elbow end
+    400262: unused ready to delete L Elbow end_end
+    400264: unused ready to delete L Finger02 end
+    400266: unused ready to delete L Finger02 end_end
+    400268: unused ready to delete L Finger12 end
+    400270: unused ready to delete L Finger12 end_end
+    400272: unused ready to delete L Finger22 end
+    400274: unused ready to delete L Finger22 end_end
+    400276: unused ready to delete L Finger32 end
+    400278: unused ready to delete L Finger32 end_end
+    400280: unused ready to delete L Finger42 end
+    400282: unused ready to delete L Finger42 end_end
+    400284: unused ready to delete L Foot Target end
+    400286: unused ready to delete L Foot Target end_end
+    400288: unused ready to delete L FootTwist end
+    400290: unused ready to delete L FootTwist end_end
+    400292: unused ready to delete L ForeArmTwist end
+    400294: unused ready to delete L ForeArmTwist end_end
+    400296: unused ready to delete L ForeArmTwist1 end
+    400298: unused ready to delete L ForeArmTwist1 end_end
+    400300: unused ready to delete L Hip end
+    400302: unused ready to delete L Hip end_end
+    400304: unused ready to delete L Knee end
+    400306: unused ready to delete L Knee end_end
+    400308: unused ready to delete L Knee Skirt
+    400310: unused ready to delete L Knee Skirt end
+    400312: unused ready to delete L Knee Skirt end_end
+    400314: unused ready to delete L Pectoral end
+    400316: unused ready to delete L Pectoral end_end
+    400318: unused ready to delete L Po
+    400320: unused ready to delete L Po end
+    400322: unused ready to delete L Po end_end
+    400324: unused ready to delete L Shield
+    400326: unused ready to delete L Shield end
+    400328: unused ready to delete L Shield end_end
+    400330: unused ready to delete L Shoulder end
+    400332: unused ready to delete L Shoulder end_end
+    400334: unused ready to delete L Thigh Skirt
+    400336: unused ready to delete L Thigh Skirt end
+    400338: unused ready to delete L Thigh Skirt end_end
+    400340: unused ready to delete L ThighTwist end
+    400342: unused ready to delete L ThighTwist end_end
+    400344: unused ready to delete L ThighTwist1 end
+    400346: unused ready to delete L ThighTwist1 end_end
+    400348: unused ready to delete L Toe0 end
+    400350: unused ready to delete L Toe0 end_end
+    400352: unused ready to delete L UpArmTwist end
+    400354: unused ready to delete L UpArmTwist end_end
+    400356: unused ready to delete L UpArmTwist1 end
+    400358: unused ready to delete L UpArmTwist1 end_end
+    400360: unused ready to delete L Weapon end
+    400362: unused ready to delete L Weapon end_end
+    400364: unused ready to delete L Wepon Case
+    400366: unused ready to delete L Wepon Case end
+    400368: unused ready to delete L Wepon Case end_end
+    400370: unused ready to delete leg left foot target
+    400372: unused ready to delete leg left foot target1
+    400374: unused ready to delete leg left foot target2
+    400376: unused ready to delete leg right foot target
+    400378: unused ready to delete leg right foot target1
+    400380: unused ready to delete leg right foot target2
+    400382: unused ready to delete R Calf Skirt
+    400384: unused ready to delete R Calf Skirt end
+    400386: unused ready to delete R Calf Skirt end_end
+    400388: unused ready to delete R CalfTwist end
+    400390: unused ready to delete R CalfTwist end_end
+    400392: unused ready to delete R CalfTwist1 end
+    400394: unused ready to delete R CalfTwist1 end_end
+    400396: unused ready to delete R Elbow end
+    400398: unused ready to delete R Elbow end_end
+    400400: unused ready to delete R Finger02 end
+    400402: unused ready to delete R Finger02 end_end
+    400404: unused ready to delete R Finger12 end
+    400406: unused ready to delete R Finger12 end_end
+    400408: unused ready to delete R Finger22 end
+    400410: unused ready to delete R Finger22 end_end
+    400412: unused ready to delete R Finger32 end
+    400414: unused ready to delete R Finger32 end_end
+    400416: unused ready to delete R Finger42 end
+    400418: unused ready to delete R Finger42 end_end
+    400420: unused ready to delete R Foot Target end
+    400422: unused ready to delete R Foot Target end_end
+    400424: unused ready to delete R FootTwist end
+    400426: unused ready to delete R FootTwist end_end
+    400428: unused ready to delete R ForeArmTwist end
+    400430: unused ready to delete R ForeArmTwist end_end
+    400432: unused ready to delete R ForeArmTwist1 end
+    400434: unused ready to delete R ForeArmTwist1 end_end
+    400436: unused ready to delete R Hip end
+    400438: unused ready to delete R Hip end_end
+    400440: unused ready to delete R Knee end
+    400442: unused ready to delete R Knee end_end
+    400444: unused ready to delete R Knee Skirt
+    400446: unused ready to delete R Knee Skirt end
+    400448: unused ready to delete R Knee Skirt end_end
+    400450: unused ready to delete R Pectoral end
+    400452: unused ready to delete R Pectoral end_end
+    400454: unused ready to delete R Po
+    400456: unused ready to delete R Po end
+    400458: unused ready to delete R Po end_end
+    400460: unused ready to delete R Shield
+    400462: unused ready to delete R Shield end
+    400464: unused ready to delete R Shield end_end
+    400466: unused ready to delete R Shoulder end
+    400468: unused ready to delete R Shoulder end_end
+    400470: unused ready to delete R Thigh Skirt
+    400472: unused ready to delete R Thigh Skirt end
+    400474: unused ready to delete R Thigh Skirt end_end
+    400476: unused ready to delete R ThighTwist end
+    400478: unused ready to delete R ThighTwist end_end
+    400480: unused ready to delete R ThighTwist1 end
+    400482: unused ready to delete R ThighTwist1 end_end
+    400484: unused ready to delete R Toe0 end
+    400486: unused ready to delete R Toe0 end_end
+    400488: unused ready to delete R UpArmTwist end
+    400490: unused ready to delete R UpArmTwist end_end
+    400492: unused ready to delete R UpArmTwist1 end
+    400494: unused ready to delete R UpArmTwist1 end_end
+    400496: unused ready to delete R Weapon end
+    400498: unused ready to delete R Weapon end_end
+    400500: unused ready to delete R Wepon Case
+    400502: unused ready to delete R Wepon Case end
+    400504: unused ready to delete R Wepon Case end_end
+    400506: unused ready to delete RootPos
+    400508: unused ready to delete RootRotXZ
+    400510: unused ready to delete RootRotY
+    400512: unused ready to delete skirt left ankle
+    400514: unused ready to delete skirt left calftwist
+    400516: unused ready to delete skirt left calftwist1
+    400518: unused ready to delete skirt left calftwist1_end
+    400520: unused ready to delete skirt left calftwist_end
+    400522: unused ready to delete skirt left foot target
+    400524: unused ready to delete skirt left foot target1
+    400526: unused ready to delete skirt left foot target2
+    400528: unused ready to delete skirt left foot target_end
+    400530: unused ready to delete skirt left knee
+    400532: unused ready to delete skirt left kneetwist
+    400534: unused ready to delete skirt left kneetwist_end
+    400536: unused ready to delete skirt left thightwist1
+    400538: unused ready to delete skirt left thightwist1_end
+    400540: unused ready to delete skirt left toe0
+    400542: unused ready to delete skirt left toe0_end
+    400544: unused ready to delete skirt right ankle
+    400546: unused ready to delete skirt right calftwist
+    400548: unused ready to delete skirt right calftwist1
+    400550: unused ready to delete skirt right calftwist1_end
+    400552: unused ready to delete skirt right calftwist_end
+    400554: unused ready to delete skirt right foot target
+    400556: unused ready to delete skirt right foot target1
+    400558: unused ready to delete skirt right foot target2
+    400560: unused ready to delete skirt right foot target_end
+    400562: unused ready to delete skirt right knee
+    400564: unused ready to delete skirt right kneetwist
+    400566: unused ready to delete skirt right kneetwist_end
+    400568: unused ready to delete skirt right thightwist1
+    400570: unused ready to delete skirt right thightwist1_end
+    400572: unused ready to delete skirt right toe0
+    400574: unused ready to delete skirt right toe0_end
+    400576: unused ready to delete SpineArmor1 end
+    400578: unused ready to delete SpineArmor1 end_end
+    400580: unused ready to delete SpineArmor2 end
+    400582: unused ready to delete SpineArmor2 end_end
+    2100000: 25_part4-legs_1_16_16
+    2100002: 25_part4-legsB_1_16_16
+    2100004: 25_part3-hood_1_16_16
+    2100006: 25_part2-armcloth_1_16_16
+    2100008: 25_part1-skirtB_1_16_16
+    2100010: 25_part1-skirtA_1_16_16
+    2100012: 25_part1-clothC_1_16_16
+    2100014: 25_part1-clothB_1_16_16
+    2100016: 25_part1-clothA_1_16_16
+    2100018: 25_part1-body_1_16_16
+    2100020: 24_part3-helmet_1_16_16
+    2100022: 24_part3-hdfc_1_16_16
+    2100024: 24_part2-armplate_1_16_16
+    2100026: 24_part2-armgloves_1_16_16
+    2100028: 24_part1-armorplates_1_16_16
+    4300000: 25_part4-legs_1_16_16
+    4300002: 25_part4-legsB_1_16_16
+    4300004: 25_part3-hood_1_16_16
+    4300006: 25_part2-armcloth_1_16_16
+    4300008: 25_part1-skirtB_1_16_16
+    4300010: 25_part1-skirtA_1_16_16
+    4300012: 25_part1-clothC_1_16_16
+    4300014: 25_part1-clothB_1_16_16
+    4300016: 25_part1-clothA_1_16_16
+    4300018: 25_part1-body_1_16_16
+    4300020: 24_part3-helmet_1_16_16
+    4300022: 24_part3-hdfc_1_16_16
+    4300024: 24_part2-armplate_1_16_16
+    4300026: 24_part2-armgloves_1_16_16
+    4300028: 24_part1-armorplates_1_16_16
+    9500000: //RootNode
+    13700000: 24_part1-armorplates_1_16_16
+    13700002: 24_part2-armgloves_1_16_16
+    13700004: 24_part2-armplate_1_16_16
+    13700006: 24_part3-hdfc_1_16_16
+    13700008: 24_part3-helmet_1_16_16
+    13700010: 25_part1-body_1_16_16
+    13700012: 25_part1-clothA_1_16_16
+    13700014: 25_part1-clothB_1_16_16
+    13700016: 25_part1-clothC_1_16_16
+    13700018: 25_part1-skirtA_1_16_16
+    13700020: 25_part1-skirtB_1_16_16
+    13700022: 25_part2-armcloth_1_16_16
+    13700024: 25_part3-hood_1_16_16
+    13700026: 25_part4-legs_1_16_16
+    13700028: 25_part4-legsB_1_16_16
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

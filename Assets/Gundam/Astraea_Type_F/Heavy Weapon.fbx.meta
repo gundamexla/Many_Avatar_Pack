@@ -1,0 +1,310 @@
+fileFormatVersion: 2
+guid: 2f3ca8f9bb6ad6b47909400764a41128
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 21_-gnbeamsaberleft.bladeb_0.1_16_16
+    100002: 21_-gnbeamsaberright.bladeb_0.1_16_16
+    100004: 25_+pistolholsterleft.pistolholsterleft_0.1_0_0
+    100006: 25_+pistolholsterright.pistolholsterright_0.1_0_0
+    100008: 25_-beamrifle.beamrifle_0.1_0_0
+    100010: 25_-gnbeampistolleft.gnbeampistolleft_0.1_0_0
+    100012: 25_-gnbeampistolright.gnbeampistolright_0.1_0_0
+    100014: 25_-gnhammer.gnhammer_0.1_0_0
+    100016: 25_-gnhandmissile.gnhandmissile_0.1_0_0
+    100018: 25_-gnhandmissilearm.gnhandmissilearm_0.1_0_0
+    100020: 25_-gnlauncher.gnlauncher_0.1_0_0
+    100022: 25_-gnshield.gnshield_0.1_0_0
+    100024: 25_-ngnbazooka.ngnbazooka_0.1_0_0
+    100026: 25_-protognsword.protognsword_0.1_0_0
+    100028: 27_-gnbeampistolleft.env_1_0_0
+    100030: 27_-gnbeampistolright.env_1_0_0
+    100032: 27_-ngnbazooka.env_1_0_0
+    100034: Armature.001
+    100036: Armature.002
+    100038: Armature.003
+    100040: Gn_blade_root
+    100042: Gn_shield_root
+    100044: Hammer_a
+    100046: Hammer_b
+    100048: Hammer_c
+    100050: Hammer_d
+    100052: Hammer_head
+    100054: Hammer_root
+    100056: //RootNode
+    100058: Left elbow
+    100060: Right elbow
+    400000: 21_-gnbeamsaberleft.bladeb_0.1_16_16
+    400002: 21_-gnbeamsaberright.bladeb_0.1_16_16
+    400004: 25_+pistolholsterleft.pistolholsterleft_0.1_0_0
+    400006: 25_+pistolholsterright.pistolholsterright_0.1_0_0
+    400008: 25_-beamrifle.beamrifle_0.1_0_0
+    400010: 25_-gnbeampistolleft.gnbeampistolleft_0.1_0_0
+    400012: 25_-gnbeampistolright.gnbeampistolright_0.1_0_0
+    400014: 25_-gnhammer.gnhammer_0.1_0_0
+    400016: 25_-gnhandmissile.gnhandmissile_0.1_0_0
+    400018: 25_-gnhandmissilearm.gnhandmissilearm_0.1_0_0
+    400020: 25_-gnlauncher.gnlauncher_0.1_0_0
+    400022: 25_-gnshield.gnshield_0.1_0_0
+    400024: 25_-ngnbazooka.ngnbazooka_0.1_0_0
+    400026: 25_-protognsword.protognsword_0.1_0_0
+    400028: 27_-gnbeampistolleft.env_1_0_0
+    400030: 27_-gnbeampistolright.env_1_0_0
+    400032: 27_-ngnbazooka.env_1_0_0
+    400034: Armature.001
+    400036: Armature.002
+    400038: Armature.003
+    400040: Gn_blade_root
+    400042: Gn_shield_root
+    400044: Hammer_a
+    400046: Hammer_b
+    400048: Hammer_c
+    400050: Hammer_d
+    400052: Hammer_head
+    400054: Hammer_root
+    400056: //RootNode
+    400058: Left elbow
+    400060: Right elbow
+    2100000: 25_-gnhammer.gnhammer_0.1_0_0
+    2100002: 25_-gnshield.gnshield_0.1_0_0
+    2100004: 25_-protognsword.protognsword_0.1_0_0
+    2100006: 27_-ngnbazooka.env_1_0_0
+    2100008: 27_-gnbeampistolright.env_1_0_0
+    2100010: 27_-gnbeampistolleft.env_1_0_0
+    2100012: 25_-ngnbazooka.ngnbazooka_0.1_0_0
+    2100014: 25_-gnlauncher.gnlauncher_0.1_0_0
+    2100016: 25_-gnhandmissilearm.gnhandmissilearm_0.1_0_0
+    2100018: 25_-gnhandmissile.gnhandmissile_0.1_0_0
+    2100020: 25_-gnbeampistolright.gnbeampistolright_0.1_0_0
+    2100022: 25_-gnbeampistolleft.gnbeampistolleft_0.1_0_0
+    2100024: 25_-beamrifle.beamrifle_0.1_0_0
+    2100026: 25_+pistolholsterright.pistolholsterright_0.1_0_0
+    2100028: 25_+pistolholsterleft.pistolholsterleft_0.1_0_0
+    2100030: 21_-gnbeamsaberright.bladeb_0.1_16_16
+    2100032: 21_-gnbeamsaberleft.bladeb_0.1_16_16
+    2300000: 21_-gnbeamsaberleft.bladeb_0.1_16_16
+    2300002: 21_-gnbeamsaberright.bladeb_0.1_16_16
+    2300004: 25_+pistolholsterleft.pistolholsterleft_0.1_0_0
+    2300006: 25_+pistolholsterright.pistolholsterright_0.1_0_0
+    2300008: 25_-beamrifle.beamrifle_0.1_0_0
+    2300010: 25_-gnbeampistolleft.gnbeampistolleft_0.1_0_0
+    2300012: 25_-gnbeampistolright.gnbeampistolright_0.1_0_0
+    2300014: 25_-gnhandmissile.gnhandmissile_0.1_0_0
+    2300016: 25_-gnhandmissilearm.gnhandmissilearm_0.1_0_0
+    2300018: 25_-gnlauncher.gnlauncher_0.1_0_0
+    2300020: 25_-ngnbazooka.ngnbazooka_0.1_0_0
+    2300022: 27_-gnbeampistolleft.env_1_0_0
+    2300024: 27_-gnbeampistolright.env_1_0_0
+    2300026: 27_-ngnbazooka.env_1_0_0
+    2300028: 25_-gnhammer.gnhammer_0.1_0_0
+    2300030: 25_-gnshield.gnshield_0.1_0_0
+    2300032: 25_-protognsword.protognsword_0.1_0_0
+    3300000: 21_-gnbeamsaberleft.bladeb_0.1_16_16
+    3300002: 21_-gnbeamsaberright.bladeb_0.1_16_16
+    3300004: 25_+pistolholsterleft.pistolholsterleft_0.1_0_0
+    3300006: 25_+pistolholsterright.pistolholsterright_0.1_0_0
+    3300008: 25_-beamrifle.beamrifle_0.1_0_0
+    3300010: 25_-gnbeampistolleft.gnbeampistolleft_0.1_0_0
+    3300012: 25_-gnbeampistolright.gnbeampistolright_0.1_0_0
+    3300014: 25_-gnhandmissile.gnhandmissile_0.1_0_0
+    3300016: 25_-gnhandmissilearm.gnhandmissilearm_0.1_0_0
+    3300018: 25_-gnlauncher.gnlauncher_0.1_0_0
+    3300020: 25_-ngnbazooka.ngnbazooka_0.1_0_0
+    3300022: 27_-gnbeampistolleft.env_1_0_0
+    3300024: 27_-gnbeampistolright.env_1_0_0
+    3300026: 27_-ngnbazooka.env_1_0_0
+    3300028: 25_-gnhammer.gnhammer_0.1_0_0
+    3300030: 25_-gnshield.gnshield_0.1_0_0
+    3300032: 25_-protognsword.protognsword_0.1_0_0
+    4300000: 25_-gnhammer.gnhammer_0.1_0_0
+    4300002: 25_-gnshield.gnshield_0.1_0_0
+    4300004: 25_-protognsword.protognsword_0.1_0_0
+    4300006: 27_-ngnbazooka.env_1_0_0
+    4300008: 27_-gnbeampistolright.env_1_0_0
+    4300010: 27_-gnbeampistolleft.env_1_0_0
+    4300012: 25_-ngnbazooka.ngnbazooka_0.1_0_0
+    4300014: 25_-gnlauncher.gnlauncher_0.1_0_0
+    4300016: 25_-gnhandmissilearm.gnhandmissilearm_0.1_0_0
+    4300018: 25_-gnhandmissile.gnhandmissile_0.1_0_0
+    4300020: 25_-gnbeampistolright.gnbeampistolright_0.1_0_0
+    4300022: 25_-gnbeampistolleft.gnbeampistolleft_0.1_0_0
+    4300024: 25_-beamrifle.beamrifle_0.1_0_0
+    4300026: 25_+pistolholsterright.pistolholsterright_0.1_0_0
+    4300028: 25_+pistolholsterleft.pistolholsterleft_0.1_0_0
+    4300030: 21_-gnbeamsaberright.bladeb_0.1_16_16
+    4300032: 21_-gnbeamsaberleft.bladeb_0.1_16_16
+    9500000: //RootNode
+    13700000: 25_-gnhammer.gnhammer_0.1_0_0
+    13700002: 25_-gnshield.gnshield_0.1_0_0
+    13700004: 25_-protognsword.protognsword_0.1_0_0
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 21_-gnbeamsaberleft.bladeb_0.1_16_16
+    second: {fileID: 2100000, guid: f6e703e01bf190f49b07361b47df1100, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 21_-gnbeamsaberright.bladeb_0.1_16_16
+    second: {fileID: 2100000, guid: c0da8c1220d27fd4bab6f3a188f0220f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_+pistolholsterleft.pistolholsterleft_0.1_0_0
+    second: {fileID: 2100000, guid: f4827af4550a46f42b6106dbaa50e82d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_+pistolholsterright.pistolholsterright_0.1_0_0
+    second: {fileID: 2100000, guid: f337d2856e6137542ba6285c9ae4743c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_-beamrifle.beamrifle_0.1_0_0
+    second: {fileID: 2100000, guid: 2fd0ecfc52dd1124ba12050faaf977fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_-gnbeampistolleft.gnbeampistolleft_0.1_0_0
+    second: {fileID: 2100000, guid: 831037634acaac546acb3ce8e2d446fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_-gnbeampistolright.gnbeampistolright_0.1_0_0
+    second: {fileID: 2100000, guid: 7b2339046c2be0345b0ac66894875347, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_-gnhammer.gnhammer_0.1_0_0
+    second: {fileID: 2100000, guid: 811a90984cb7dde45a5bb0149d81fd55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_-gnhandmissile.gnhandmissile_0.1_0_0
+    second: {fileID: 2100000, guid: d4baf3a5dbedb3a479b0be4b5b34a53b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_-gnhandmissilearm.gnhandmissilearm_0.1_0_0
+    second: {fileID: 2100000, guid: 76d088e746a4b544a81ba63347234432, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_-gnlauncher.gnlauncher_0.1_0_0
+    second: {fileID: 2100000, guid: 8cb0a4d74649d5146a661ce3e661e9e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_-gnshield.gnshield_0.1_0_0
+    second: {fileID: 2100000, guid: c61ff8c3d82fff040881390689289f22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_-ngnbazooka.ngnbazooka_0.1_0_0
+    second: {fileID: 2100000, guid: d64d2680513e7ed44a9644481b2e0b73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 25_-protognsword.protognsword_0.1_0_0
+    second: {fileID: 2100000, guid: 219f94fe0247d1d4085a02b749df6a5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 27_-gnbeampistolleft.env_1_0_0
+    second: {fileID: 2100000, guid: 949dd4ce749d24f4c8a7deffe20e0801, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 27_-gnbeampistolright.env_1_0_0
+    second: {fileID: 2100000, guid: 26de7bdb8860360458f89917d09399e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 27_-ngnbazooka.env_1_0_0
+    second: {fileID: 2100000, guid: 722e9cbb5e003144d9a245a44ae93a30, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

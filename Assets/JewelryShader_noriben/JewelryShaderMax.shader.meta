@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 5a73eb25bbcde2f4cadb28dcbb6fd448
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _Normal_Tex: {instanceID: 0}
+  - _Matcap_Tex: {instanceID: 0}
+  - _Dissolve_Tex: {instanceID: 0}
+  - _Offset_Tex: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

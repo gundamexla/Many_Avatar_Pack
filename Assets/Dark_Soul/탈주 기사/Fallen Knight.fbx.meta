@@ -1,0 +1,487 @@
+fileFormatVersion: 2
+guid: d9306ce5a93d0a04ebe031dabbb26db4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Antenna1
+    100002: Antenna2
+    100004: Antenna3
+    100006: Antenna4
+    100008: Arm_Left_Finger_0
+    100010: Arm_Left_Finger_01
+    100012: Arm_Left_Finger_02
+    100014: Arm_Left_Finger_1
+    100016: Arm_Left_Finger_11
+    100018: Arm_Left_Finger_12
+    100020: Arm_Left_Finger_2
+    100022: Arm_Left_Finger_21
+    100024: Arm_Left_Finger_22
+    100026: Arm_Left_Finger_3
+    100028: Arm_Left_Finger_31
+    100030: Arm_Left_Finger_32
+    100032: Arm_Left_Finger_4
+    100034: Arm_Left_Finger_41
+    100036: Arm_Left_Finger_42
+    100038: Arm_Right_Finger_0
+    100040: Arm_Right_Finger_01
+    100042: Arm_Right_Finger_02
+    100044: Arm_Right_Finger_1
+    100046: Arm_Right_Finger_11
+    100048: Arm_Right_Finger_12
+    100050: Arm_Right_Finger_2
+    100052: Arm_Right_Finger_21
+    100054: Arm_Right_Finger_22
+    100056: Arm_Right_Finger_3
+    100058: Arm_Right_Finger_31
+    100060: Arm_Right_Finger_32
+    100062: Arm_Right_Finger_4
+    100064: Arm_Right_Finger_41
+    100066: Arm_Right_Finger_42
+    100068: Armature
+    100070: Armor
+    100072: BackHair1
+    100074: BackHair1_1_1_L
+    100076: BackHair1_1_1_R
+    100078: BackHair1_1_2_L
+    100080: BackHair1_1_2_R
+    100082: BackHair1_1_3_L
+    100084: BackHair1_1_3_R
+    100086: BackHair1_1_4_L
+    100088: BackHair1_1_4_R
+    100090: BackHair1_1_L
+    100092: BackHair1_1_R
+    100094: BackHair1_2_L
+    100096: BackHair1_2_R
+    100098: BackHair1_3_L
+    100100: BackHair1_3_L_001
+    100102: BackHair1_3_R
+    100104: BackHair1_3_R_001
+    100106: BackHair1_4_L
+    100108: BackHair1_4_L_001
+    100110: BackHair1_4_R
+    100112: BackHair1_4_R_001
+    100114: BackHair1_5_L_001
+    100116: BackHair1_5_R_001
+    100118: BackHair1_6_L
+    100120: BackHair1_6_R
+    100122: BackHair2
+    100124: BackHair2_1_1_L
+    100126: BackHair2_1_1_R
+    100128: BackHair2_1_2_L
+    100130: BackHair2_1_2_R
+    100132: BackHair2_1_3_L
+    100134: BackHair2_1_3_R
+    100136: BackHair2_1_4_L
+    100138: BackHair2_1_4_R
+    100140: BackHair2_1_L
+    100142: BackHair2_1_R
+    100144: BackHair2_2_L
+    100146: BackHair2_2_R
+    100148: BackHair2_3_L
+    100150: BackHair2_3_R
+    100152: BackHair2_4_L
+    100154: BackHair2_4_R
+    100156: BackHair2_5_L
+    100158: BackHair2_5_R
+    100160: BackHair2_6_L
+    100162: BackHair2_6_R
+    100164: BackHair3
+    100166: BackHair4
+    100168: BackHair5
+    100170: BackHair6
+    100172: BackHairMiddle1
+    100174: BackHairMiddle2
+    100176: BackHairMiddle3
+    100178: BackHairMiddle4
+    100180: BackHairMiddle_1_1_L
+    100182: BackHairMiddle_1_1_R
+    100184: BackHairMiddle_1_2_L
+    100186: BackHairMiddle_1_2_R
+    100188: BackHairMiddle_1_3_L
+    100190: BackHairMiddle_1_3_R
+    100192: BackHairMiddle_1_4_L
+    100194: BackHairMiddle_1_4_R
+    100196: BackHairMiddle_2_1_L
+    100198: BackHairMiddle_2_1_R
+    100200: BackHairMiddle_2_2_L
+    100202: BackHairMiddle_2_2_R
+    100204: BackHairMiddle_2_3_L
+    100206: BackHairMiddle_2_3_R
+    100208: BackHairMiddle_2_4_L
+    100210: BackHairMiddle_2_4_R
+    100212: BackHairMiddle_3_1_L
+    100214: BackHairMiddle_3_1_R
+    100216: BackHairMiddle_3_2_L
+    100218: BackHairMiddle_3_2_R
+    100220: BackHairMiddle_3_3_L
+    100222: BackHairMiddle_3_3_R
+    100224: BackHairMiddle_3_4_L
+    100226: BackHairMiddle_3_4_R
+    100228: Body
+    100230: Chest
+    100232: Eye_L
+    100234: Eye_R
+    100236: //RootNode
+    100238: FrontHair
+    100240: FrontHair2
+    100242: FrontHair3
+    100244: FrontHair4
+    100246: FrontHair5
+    100248: FrontHair6
+    100250: Head
+    100252: Helm
+    100254: Hips
+    100256: Hood
+    100258: Left ankle
+    100260: Left arm
+    100262: Left elbow
+    100264: Left knee
+    100266: Left leg
+    100268: Left shoulder
+    100270: Left toe
+    100272: Left wrist
+    100274: LeftEye
+    100276: Neck
+    100278: Right ankle
+    100280: Right arm
+    100282: Right elbow
+    100284: Right knee
+    100286: Right leg
+    100288: Right shoulder
+    100290: Right toe
+    100292: Right wrist
+    100294: RightEye
+    100296: Robe
+    100298: SideHair1_L
+    100300: SideHair1_R
+    100302: SideHair2_1_L
+    100304: SideHair2_1_R
+    100306: SideHair2_2_L
+    100308: SideHair2_2_R
+    100310: SideHair2_3_L
+    100312: SideHair2_3_R
+    100314: SideHair2_4_L
+    100316: SideHair2_4_R
+    100318: SideHair2_5_L
+    100320: SideHair2_5_R
+    100322: SideHair2_L
+    100324: SideHair2_R
+    100326: SideHair3_1_L
+    100328: SideHair3_1_R
+    100330: SideHair3_2_L
+    100332: SideHair3_2_R
+    100334: SideHair3_3_L
+    100336: SideHair3_3_R
+    100338: SideHair3_4_L
+    100340: SideHair3_4_R
+    100342: SideHair3_L
+    100344: SideHair3_R
+    100346: SideHair4_L
+    100348: SideHair4_R
+    100350: SideHair5_L
+    100352: SideHair5_R
+    100354: SideHair6_L
+    100356: SideHair6_R
+    100358: Skirt_Left_Thigh
+    100360: Skirt_Right_Thigh
+    100362: Spine
+    400000: Antenna1
+    400002: Antenna2
+    400004: Antenna3
+    400006: Antenna4
+    400008: Arm_Left_Finger_0
+    400010: Arm_Left_Finger_01
+    400012: Arm_Left_Finger_02
+    400014: Arm_Left_Finger_1
+    400016: Arm_Left_Finger_11
+    400018: Arm_Left_Finger_12
+    400020: Arm_Left_Finger_2
+    400022: Arm_Left_Finger_21
+    400024: Arm_Left_Finger_22
+    400026: Arm_Left_Finger_3
+    400028: Arm_Left_Finger_31
+    400030: Arm_Left_Finger_32
+    400032: Arm_Left_Finger_4
+    400034: Arm_Left_Finger_41
+    400036: Arm_Left_Finger_42
+    400038: Arm_Right_Finger_0
+    400040: Arm_Right_Finger_01
+    400042: Arm_Right_Finger_02
+    400044: Arm_Right_Finger_1
+    400046: Arm_Right_Finger_11
+    400048: Arm_Right_Finger_12
+    400050: Arm_Right_Finger_2
+    400052: Arm_Right_Finger_21
+    400054: Arm_Right_Finger_22
+    400056: Arm_Right_Finger_3
+    400058: Arm_Right_Finger_31
+    400060: Arm_Right_Finger_32
+    400062: Arm_Right_Finger_4
+    400064: Arm_Right_Finger_41
+    400066: Arm_Right_Finger_42
+    400068: Armature
+    400070: Armor
+    400072: BackHair1
+    400074: BackHair1_1_1_L
+    400076: BackHair1_1_1_R
+    400078: BackHair1_1_2_L
+    400080: BackHair1_1_2_R
+    400082: BackHair1_1_3_L
+    400084: BackHair1_1_3_R
+    400086: BackHair1_1_4_L
+    400088: BackHair1_1_4_R
+    400090: BackHair1_1_L
+    400092: BackHair1_1_R
+    400094: BackHair1_2_L
+    400096: BackHair1_2_R
+    400098: BackHair1_3_L
+    400100: BackHair1_3_L_001
+    400102: BackHair1_3_R
+    400104: BackHair1_3_R_001
+    400106: BackHair1_4_L
+    400108: BackHair1_4_L_001
+    400110: BackHair1_4_R
+    400112: BackHair1_4_R_001
+    400114: BackHair1_5_L_001
+    400116: BackHair1_5_R_001
+    400118: BackHair1_6_L
+    400120: BackHair1_6_R
+    400122: BackHair2
+    400124: BackHair2_1_1_L
+    400126: BackHair2_1_1_R
+    400128: BackHair2_1_2_L
+    400130: BackHair2_1_2_R
+    400132: BackHair2_1_3_L
+    400134: BackHair2_1_3_R
+    400136: BackHair2_1_4_L
+    400138: BackHair2_1_4_R
+    400140: BackHair2_1_L
+    400142: BackHair2_1_R
+    400144: BackHair2_2_L
+    400146: BackHair2_2_R
+    400148: BackHair2_3_L
+    400150: BackHair2_3_R
+    400152: BackHair2_4_L
+    400154: BackHair2_4_R
+    400156: BackHair2_5_L
+    400158: BackHair2_5_R
+    400160: BackHair2_6_L
+    400162: BackHair2_6_R
+    400164: BackHair3
+    400166: BackHair4
+    400168: BackHair5
+    400170: BackHair6
+    400172: BackHairMiddle1
+    400174: BackHairMiddle2
+    400176: BackHairMiddle3
+    400178: BackHairMiddle4
+    400180: BackHairMiddle_1_1_L
+    400182: BackHairMiddle_1_1_R
+    400184: BackHairMiddle_1_2_L
+    400186: BackHairMiddle_1_2_R
+    400188: BackHairMiddle_1_3_L
+    400190: BackHairMiddle_1_3_R
+    400192: BackHairMiddle_1_4_L
+    400194: BackHairMiddle_1_4_R
+    400196: BackHairMiddle_2_1_L
+    400198: BackHairMiddle_2_1_R
+    400200: BackHairMiddle_2_2_L
+    400202: BackHairMiddle_2_2_R
+    400204: BackHairMiddle_2_3_L
+    400206: BackHairMiddle_2_3_R
+    400208: BackHairMiddle_2_4_L
+    400210: BackHairMiddle_2_4_R
+    400212: BackHairMiddle_3_1_L
+    400214: BackHairMiddle_3_1_R
+    400216: BackHairMiddle_3_2_L
+    400218: BackHairMiddle_3_2_R
+    400220: BackHairMiddle_3_3_L
+    400222: BackHairMiddle_3_3_R
+    400224: BackHairMiddle_3_4_L
+    400226: BackHairMiddle_3_4_R
+    400228: Body
+    400230: Chest
+    400232: Eye_L
+    400234: Eye_R
+    400236: //RootNode
+    400238: FrontHair
+    400240: FrontHair2
+    400242: FrontHair3
+    400244: FrontHair4
+    400246: FrontHair5
+    400248: FrontHair6
+    400250: Head
+    400252: Helm
+    400254: Hips
+    400256: Hood
+    400258: Left ankle
+    400260: Left arm
+    400262: Left elbow
+    400264: Left knee
+    400266: Left leg
+    400268: Left shoulder
+    400270: Left toe
+    400272: Left wrist
+    400274: LeftEye
+    400276: Neck
+    400278: Right ankle
+    400280: Right arm
+    400282: Right elbow
+    400284: Right knee
+    400286: Right leg
+    400288: Right shoulder
+    400290: Right toe
+    400292: Right wrist
+    400294: RightEye
+    400296: Robe
+    400298: SideHair1_L
+    400300: SideHair1_R
+    400302: SideHair2_1_L
+    400304: SideHair2_1_R
+    400306: SideHair2_2_L
+    400308: SideHair2_2_R
+    400310: SideHair2_3_L
+    400312: SideHair2_3_R
+    400314: SideHair2_4_L
+    400316: SideHair2_4_R
+    400318: SideHair2_5_L
+    400320: SideHair2_5_R
+    400322: SideHair2_L
+    400324: SideHair2_R
+    400326: SideHair3_1_L
+    400328: SideHair3_1_R
+    400330: SideHair3_2_L
+    400332: SideHair3_2_R
+    400334: SideHair3_3_L
+    400336: SideHair3_3_R
+    400338: SideHair3_4_L
+    400340: SideHair3_4_R
+    400342: SideHair3_L
+    400344: SideHair3_R
+    400346: SideHair4_L
+    400348: SideHair4_R
+    400350: SideHair5_L
+    400352: SideHair5_R
+    400354: SideHair6_L
+    400356: SideHair6_R
+    400358: Skirt_Left_Thigh
+    400360: Skirt_Right_Thigh
+    400362: Spine
+    2100000: 25_part1-clothC_1_16_16
+    2100002: 24_part3-hdfc_1_16_16
+    2100004: 24_part3-helmet_1_16_16
+    2100006: 25_part3-hood_1_16_16
+    2100008: 25_part2-armcloth_1_16_16
+    2100010: 24_part1-armorplates_1_16_16
+    2100012: 24_part2-armgloves_1_16_16
+    2100014: 24_part2-armplate_1_16_16
+    2100016: 25_part1-body_1_16_16
+    2100018: 25_part1-clothB_1_16_16
+    2100020: 25_part1-skirtA_1_16_16
+    2100022: 25_part4-legs_1_16_16
+    2100024: 25_part1-clothA_1_16_16
+    2100026: 25_part1-skirtB_1_16_16
+    2100028: 25_part4-legsB_1_16_16
+    2100030: Eye
+    2100032: Guan
+    2100034: Oral
+    2100036: highlight
+    2100038: bangs
+    2100040: clothes
+    4300000: Robe
+    4300002: Helm
+    4300004: Hood
+    4300006: Armor
+    4300008: Body
+    9500000: //RootNode
+    13700000: Armor
+    13700002: Body
+    13700004: Helm
+    13700006: Hood
+    13700008: Robe
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

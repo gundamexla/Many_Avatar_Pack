@@ -1,0 +1,298 @@
+fileFormatVersion: 2
+guid: 793c6ce898c6dd94d9a18912ac135f4d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Body
+    100004: Chest
+    100006: Eye_L
+    100008: Eye_R
+    100010: Head
+    100012: Hips
+    100014: Index_Distal_L
+    100016: Index_Distal_R
+    100018: Index_Intermediate_L
+    100020: Index_Intermediate_R
+    100022: Index_Proximal_L
+    100024: Index_Proximal_R
+    100026: //RootNode
+    100028: Kei_Hair01
+    100030: Kei_Hair02
+    100032: Kei_Hair03
+    100034: Kei_Hair04
+    100036: Kei_Hair05
+    100038: Kei_Hair06
+    100040: Kei_Hair07
+    100042: Kei_Hair07_L
+    100044: Kei_Hair07_R
+    100046: Kei_Hair08_L
+    100048: Kei_Hair08_R
+    100050: Kei_Hair09_L
+    100052: Kei_Hair09_R
+    100054: Kei_Hair10_L
+    100056: Kei_Hair10_R
+    100058: Kei_Hair11_L
+    100060: Kei_Hair11_R
+    100062: Kei_Hair12_L
+    100064: Kei_Hair12_R
+    100066: Kei_Hair13_L
+    100068: Kei_Hair13_R
+    100070: Kei_Hair_Aho
+    100072: Left ankle
+    100074: Left arm
+    100076: Left elbow
+    100078: Left knee
+    100080: Left leg
+    100082: Left leg 2
+    100084: Left shoulder
+    100086: Left toe
+    100088: Left wrist
+    100090: LeftEye
+    100092: Little_Distal_L
+    100094: Little_Distal_R
+    100096: Little_Intermediate_L
+    100098: Little_Intermediate_R
+    100100: Little_Proximal_L
+    100102: Little_Proximal_R
+    100104: Middle_Distal_L
+    100106: Middle_Distal_R
+    100108: Middle_Intermediate_L
+    100110: Middle_Intermediate_R
+    100112: Middle_Proximal_L
+    100114: Middle_Proximal_R
+    100116: Neck
+    100118: Right ankle
+    100120: Right arm
+    100122: Right elbow
+    100124: Right knee
+    100126: Right leg
+    100128: Right leg 2
+    100130: Right shoulder
+    100132: Right toe
+    100134: Right wrist
+    100136: RightEye
+    100138: Ring_Distal_L
+    100140: Ring_Distal_R
+    100142: Ring_Intermediate_L
+    100144: Ring_Intermediate_R
+    100146: Ring_Proximal_L
+    100148: Ring_Proximal_R
+    100150: SM_keibody
+    100152: SM_keihair
+    100154: SM_keihoodie
+    100156: SM_keijean
+    100158: SM_keinecklace
+    100160: SM_keiring
+    100162: Spine
+    100164: Thumb_Distal_L
+    100166: Thumb_Distal_R
+    100168: Thumb_Intermediate_L
+    100170: Thumb_Intermediate_R
+    100172: Thumb_Proximal_L
+    100174: Thumb_Proximal_R
+    400000: Armature
+    400002: Body
+    400004: Chest
+    400006: Eye_L
+    400008: Eye_R
+    400010: Head
+    400012: Hips
+    400014: Index_Distal_L
+    400016: Index_Distal_R
+    400018: Index_Intermediate_L
+    400020: Index_Intermediate_R
+    400022: Index_Proximal_L
+    400024: Index_Proximal_R
+    400026: //RootNode
+    400028: Kei_Hair01
+    400030: Kei_Hair02
+    400032: Kei_Hair03
+    400034: Kei_Hair04
+    400036: Kei_Hair05
+    400038: Kei_Hair06
+    400040: Kei_Hair07
+    400042: Kei_Hair07_L
+    400044: Kei_Hair07_R
+    400046: Kei_Hair08_L
+    400048: Kei_Hair08_R
+    400050: Kei_Hair09_L
+    400052: Kei_Hair09_R
+    400054: Kei_Hair10_L
+    400056: Kei_Hair10_R
+    400058: Kei_Hair11_L
+    400060: Kei_Hair11_R
+    400062: Kei_Hair12_L
+    400064: Kei_Hair12_R
+    400066: Kei_Hair13_L
+    400068: Kei_Hair13_R
+    400070: Kei_Hair_Aho
+    400072: Left ankle
+    400074: Left arm
+    400076: Left elbow
+    400078: Left knee
+    400080: Left leg
+    400082: Left leg 2
+    400084: Left shoulder
+    400086: Left toe
+    400088: Left wrist
+    400090: LeftEye
+    400092: Little_Distal_L
+    400094: Little_Distal_R
+    400096: Little_Intermediate_L
+    400098: Little_Intermediate_R
+    400100: Little_Proximal_L
+    400102: Little_Proximal_R
+    400104: Middle_Distal_L
+    400106: Middle_Distal_R
+    400108: Middle_Intermediate_L
+    400110: Middle_Intermediate_R
+    400112: Middle_Proximal_L
+    400114: Middle_Proximal_R
+    400116: Neck
+    400118: Right ankle
+    400120: Right arm
+    400122: Right elbow
+    400124: Right knee
+    400126: Right leg
+    400128: Right leg 2
+    400130: Right shoulder
+    400132: Right toe
+    400134: Right wrist
+    400136: RightEye
+    400138: Ring_Distal_L
+    400140: Ring_Distal_R
+    400142: Ring_Intermediate_L
+    400144: Ring_Intermediate_R
+    400146: Ring_Proximal_L
+    400148: Ring_Proximal_R
+    400150: SM_keibody
+    400152: SM_keihair
+    400154: SM_keihoodie
+    400156: SM_keijean
+    400158: SM_keinecklace
+    400160: SM_keiring
+    400162: Spine
+    400164: Thumb_Distal_L
+    400166: Thumb_Distal_R
+    400168: Thumb_Intermediate_L
+    400170: Thumb_Intermediate_R
+    400172: Thumb_Proximal_L
+    400174: Thumb_Proximal_R
+    2100000: "\u6750\u8CEA1"
+    2100002: Material5
+    2100004: Material7
+    2100006: Material8
+    2100008: Material13
+    2100010: Material14
+    2100012: Untitled
+    2100014: M_keibody.002
+    2100016: M_keiskin.001
+    2100018: M_keibody.001
+    2100020: M_keibody
+    2100022: M_keihair_transparent
+    2100024: M_keihair
+    2100026: M_keiface
+    2100028: M_keiface_transparent
+    2100030: M_keihair_hi
+    4300000: SM_keinecklace
+    4300002: SM_keihoodie
+    4300004: SM_keijean
+    4300006: SM_keiring
+    4300008: SM_keibody
+    4300010: Body
+    4300012: SM_keihair
+    9500000: //RootNode
+    13700000: Body
+    13700002: SM_keibody
+    13700004: SM_keihair
+    13700006: SM_keihoodie
+    13700008: SM_keijean
+    13700010: SM_keinecklace
+    13700012: SM_keiring
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

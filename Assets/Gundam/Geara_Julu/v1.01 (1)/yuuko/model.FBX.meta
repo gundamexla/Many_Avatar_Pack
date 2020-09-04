@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: d9c162ac309dcaa44891e9ceda163ec0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Body
+    100004: body_1
+    100006: Chest
+    100008: costume
+    100010: EarL
+    100012: EarR
+    100014: Foot.L
+    100016: Foot.R
+    100018: hair back
+    100020: hair front
+    100022: hair sideL
+    100024: hair sideR
+    100026: hair tail1
+    100028: hair tail2
+    100030: Hand.L
+    100032: Hand.R
+    100034: Head
+    100036: Hips
+    100038: Index Distal.L
+    100040: Index Distal.R
+    100042: Index Intermediate.L
+    100044: Index Intermediate.R
+    100046: Index Proximal.L
+    100048: Index Proximal.R
+    100050: LeftEye
+    100052: Little Distal.L
+    100054: Little Distal.R
+    100056: Little Intermediate.L
+    100058: Little Intermediate.R
+    100060: Little Proximal.L
+    100062: Little Proximal.R
+    100064: Lower Arm.L
+    100066: Lower Arm.R
+    100068: Lower Leg.L
+    100070: Lower Leg.R
+    100072: Middle Distal.L
+    100074: Middle Distal.R
+    100076: Middle Intermediate.L
+    100078: Middle Intermediate.R
+    100080: Middle Proximal.L
+    100082: Middle Proximal.R
+    100084: //RootNode
+    100086: Neck
+    100088: Oppi L
+    100090: Oppi R
+    100092: RightEye
+    100094: Ring Distal.L
+    100096: Ring Distal.R
+    100098: Ring Intermediate.L
+    100100: Ring Intermediate.R
+    100102: Ring Proximal.L
+    100104: Ring Proximal.R
+    100106: Shoulder.L
+    100108: Shoulder.R
+    100110: skirt Back1
+    100112: skirt Back1_2
+    100114: skirt Bside1.L
+    100116: skirt Bside1.R
+    100118: skirt Bside1_2.L
+    100120: skirt Bside1_2.R
+    100122: skirt Bside2.L
+    100124: skirt Bside2.R
+    100126: skirt Bside2_1.L
+    100128: skirt Bside2_2.R
+    100130: skirt front1
+    100132: skirt front1_2
+    100134: skirt Fside1.L
+    100136: skirt Fside1.R
+    100138: skirt Fside1_2.L
+    100140: skirt Fside1_2.R
+    100142: skirt Fside2.L
+    100144: skirt Fside2.R
+    100146: skirt Fside2_2.L
+    100148: skirt Fside2_2.R
+    100150: Spine
+    100152: Tail1
+    100154: Tail2
+    100156: Thumb Distal.L
+    100158: Thumb Distal.R
+    100160: Thumb Intermediate.L
+    100162: Thumb Intermediate.R
+    100164: Thumb Proximal.L
+    100166: Thumb Proximal.R
+    100168: Toe.L
+    100170: Toe.R
+    100172: Upper Arm.L
+    100174: Upper Arm.R
+    100176: Upper Chest
+    100178: Upper Leg.L
+    100180: Upper Leg.R
+    400000: Armature
+    400002: Body
+    400004: body_1
+    400006: Chest
+    400008: costume
+    400010: EarL
+    400012: EarR
+    400014: Foot.L
+    400016: Foot.R
+    400018: hair back
+    400020: hair front
+    400022: hair sideL
+    400024: hair sideR
+    400026: hair tail1
+    400028: hair tail2
+    400030: Hand.L
+    400032: Hand.R
+    400034: Head
+    400036: Hips
+    400038: Index Distal.L
+    400040: Index Distal.R
+    400042: Index Intermediate.L
+    400044: Index Intermediate.R
+    400046: Index Proximal.L
+    400048: Index Proximal.R
+    400050: LeftEye
+    400052: Little Distal.L
+    400054: Little Distal.R
+    400056: Little Intermediate.L
+    400058: Little Intermediate.R
+    400060: Little Proximal.L
+    400062: Little Proximal.R
+    400064: Lower Arm.L
+    400066: Lower Arm.R
+    400068: Lower Leg.L
+    400070: Lower Leg.R
+    400072: Middle Distal.L
+    400074: Middle Distal.R
+    400076: Middle Intermediate.L
+    400078: Middle Intermediate.R
+    400080: Middle Proximal.L
+    400082: Middle Proximal.R
+    400084: //RootNode
+    400086: Neck
+    400088: Oppi L
+    400090: Oppi R
+    400092: RightEye
+    400094: Ring Distal.L
+    400096: Ring Distal.R
+    400098: Ring Intermediate.L
+    400100: Ring Intermediate.R
+    400102: Ring Proximal.L
+    400104: Ring Proximal.R
+    400106: Shoulder.L
+    400108: Shoulder.R
+    400110: skirt Back1
+    400112: skirt Back1_2
+    400114: skirt Bside1.L
+    400116: skirt Bside1.R
+    400118: skirt Bside1_2.L
+    400120: skirt Bside1_2.R
+    400122: skirt Bside2.L
+    400124: skirt Bside2.R
+    400126: skirt Bside2_1.L
+    400128: skirt Bside2_2.R
+    400130: skirt front1
+    400132: skirt front1_2
+    400134: skirt Fside1.L
+    400136: skirt Fside1.R
+    400138: skirt Fside1_2.L
+    400140: skirt Fside1_2.R
+    400142: skirt Fside2.L
+    400144: skirt Fside2.R
+    400146: skirt Fside2_2.L
+    400148: skirt Fside2_2.R
+    400150: Spine
+    400152: Tail1
+    400154: Tail2
+    400156: Thumb Distal.L
+    400158: Thumb Distal.R
+    400160: Thumb Intermediate.L
+    400162: Thumb Intermediate.R
+    400164: Thumb Proximal.L
+    400166: Thumb Proximal.R
+    400168: Toe.L
+    400170: Toe.R
+    400172: Upper Arm.L
+    400174: Upper Arm.R
+    400176: Upper Chest
+    400178: Upper Leg.L
+    400180: Upper Leg.R
+    2100000: body
+    2100002: hair
+    2100004: 'Material #499'
+    2100006: costume
+    2100008: underwear
+    2100010: 22 - Default
+    4300000: Body
+    4300002: body_1
+    4300004: costume
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Body
+    13700002: body_1
+    13700004: costume
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

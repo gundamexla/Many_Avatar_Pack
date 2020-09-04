@@ -1,0 +1,6 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.tga filter=lfs diff=lfs merge=lfs -text
+*.mp3 filter=lfs diff=lfs merge=lfs -text
+$[[:space:]]git[[:space:]]push[[:space:]]origin[[:space:]]master filter=lfs diff=lfs merge=lfs -text
+5e61aba50440bcb46abf898a8e60e784 filter=lfs diff=lfs merge=lfs -text
+aa78e3632df2be94fb9e7cbfa58d2c7a filter=lfs diff=lfs merge=lfs -text

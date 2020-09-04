@@ -1,0 +1,451 @@
+fileFormatVersion: 2
+guid: 635776ee1fc4a1547bbbb8beae96b1fa
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Body
+    100004: Chest
+    100006: Ear
+    100008: Ear_L_00
+    100010: Ear_L_01
+    100012: Ear_L_02
+    100014: Ear_L_03
+    100016: Ear_L_04
+    100018: Ear_R_00
+    100020: Ear_R_01
+    100022: Ear_R_02
+    100024: Ear_R_03
+    100026: Ear_R_04
+    100028: Eye_L
+    100030: Eye_R
+    100032: Hair_01
+    100034: Hair_02
+    100036: Hair_03
+    100038: Hair_04
+    100040: Hair_05
+    100042: Hair_06
+    100044: Head
+    100046: Hips
+    100048: Index_Distal_L
+    100050: Index_Distal_R
+    100052: Index_Intermediate_L
+    100054: Index_Intermediate_R
+    100056: Index_Proximal_L
+    100058: Index_Proximal_R
+    100060: Left ankle
+    100062: Left arm
+    100064: Left elbow
+    100066: Left knee
+    100068: Left leg
+    100070: Left leg 2
+    100072: Left shoulder
+    100074: Left toe
+    100076: Left wrist
+    100078: LeftEye
+    100080: Little_Distal_L
+    100082: Little_Distal_R
+    100084: Little_Intermediate_L
+    100086: Little_Intermediate_R
+    100088: Little_Proximal_L
+    100090: Little_Proximal_R
+    100092: //RootNode
+    100094: Middle_Distal_
+    100096: Middle_Distal_L
+    100098: Middle_Intermediate_L
+    100100: Middle_Intermediate_R
+    100102: Middle_Proximal_L
+    100104: Middle_Proximal_R
+    100106: Neck
+    100108: Right ankle
+    100110: Right arm
+    100112: Right elbow
+    100114: Right knee
+    100116: Right leg
+    100118: Right leg 2
+    100120: Right shoulder
+    100122: Right toe
+    100124: Right wrist
+    100126: RightEye
+    100128: Ring_Distal_L
+    100130: Ring_Distal_R
+    100132: Ring_Intermediate_L
+    100134: Ring_Intermediate_R
+    100136: Ring_Proximal_L
+    100138: Ring_Proximal_R
+    100140: Skirt_0_0
+    100142: Skirt_0_1
+    100144: Skirt_0_10
+    100146: Skirt_0_11
+    100148: Skirt_0_12
+    100150: Skirt_0_13
+    100152: Skirt_0_14
+    100154: Skirt_0_2
+    100156: Skirt_0_3
+    100158: Skirt_0_4
+    100160: Skirt_0_5
+    100162: Skirt_0_6
+    100164: Skirt_0_7
+    100166: Skirt_0_8
+    100168: Skirt_0_9
+    100170: Skirt_1_0
+    100172: Skirt_1_1
+    100174: Skirt_1_10
+    100176: Skirt_1_11
+    100178: Skirt_1_12
+    100180: Skirt_1_13
+    100182: Skirt_1_14
+    100184: Skirt_1_2
+    100186: Skirt_1_3
+    100188: Skirt_1_4
+    100190: Skirt_1_5
+    100192: Skirt_1_6
+    100194: Skirt_1_7
+    100196: Skirt_1_8
+    100198: Skirt_1_9
+    100200: Skirt_2_0
+    100202: Skirt_2_1
+    100204: Skirt_2_10
+    100206: Skirt_2_11
+    100208: Skirt_2_12
+    100210: Skirt_2_13
+    100212: Skirt_2_14
+    100214: Skirt_2_2
+    100216: Skirt_2_3
+    100218: Skirt_2_4
+    100220: Skirt_2_5
+    100222: Skirt_2_6
+    100224: Skirt_2_7
+    100226: Skirt_2_8
+    100228: Skirt_2_9
+    100230: Skirt_3_0
+    100232: Skirt_3_1
+    100234: Skirt_3_10
+    100236: Skirt_3_11
+    100238: Skirt_3_12
+    100240: Skirt_3_13
+    100242: Skirt_3_14
+    100244: Skirt_3_2
+    100246: Skirt_3_3
+    100248: Skirt_3_4
+    100250: Skirt_3_5
+    100252: Skirt_3_6
+    100254: Skirt_3_7
+    100256: Skirt_3_8
+    100258: Skirt_3_9
+    100260: Skirt_4_0
+    100262: Skirt_4_1
+    100264: Skirt_4_10
+    100266: Skirt_4_11
+    100268: Skirt_4_12
+    100270: Skirt_4_13
+    100272: Skirt_4_14
+    100274: Skirt_4_2
+    100276: Skirt_4_3
+    100278: Skirt_4_4
+    100280: Skirt_4_5
+    100282: Skirt_4_6
+    100284: Skirt_4_7
+    100286: Skirt_4_8
+    100288: Skirt_4_9
+    100290: Skirt_5_0
+    100292: Skirt_5_1
+    100294: Skirt_5_10
+    100296: Skirt_5_11
+    100298: Skirt_5_12
+    100300: Skirt_5_13
+    100302: Skirt_5_14
+    100304: Skirt_5_2
+    100306: Skirt_5_3
+    100308: Skirt_5_4
+    100310: Skirt_5_5
+    100312: Skirt_5_6
+    100314: Skirt_5_7
+    100316: Skirt_5_8
+    100318: Skirt_5_9
+    100320: Spine
+    100322: Tail_01
+    100324: Tail_02
+    100326: Tail_03
+    100328: Tail_04
+    100330: Tail_05
+    100332: Tail_06
+    100334: Tail_07
+    100336: Tail_08
+    100338: Tail_09
+    100340: Thumb_Distal_L
+    100342: Thumb_Distal_R
+    100344: Thumb_Intermediate_L
+    100346: Thumb_Intermediate_R
+    100348: Thumb_Proximal_L
+    100350: Thumb_Proximal_R
+    400000: Armature
+    400002: Body
+    400004: Chest
+    400006: Ear
+    400008: Ear_L_00
+    400010: Ear_L_01
+    400012: Ear_L_02
+    400014: Ear_L_03
+    400016: Ear_L_04
+    400018: Ear_R_00
+    400020: Ear_R_01
+    400022: Ear_R_02
+    400024: Ear_R_03
+    400026: Ear_R_04
+    400028: Eye_L
+    400030: Eye_R
+    400032: Hair_01
+    400034: Hair_02
+    400036: Hair_03
+    400038: Hair_04
+    400040: Hair_05
+    400042: Hair_06
+    400044: Head
+    400046: Hips
+    400048: Index_Distal_L
+    400050: Index_Distal_R
+    400052: Index_Intermediate_L
+    400054: Index_Intermediate_R
+    400056: Index_Proximal_L
+    400058: Index_Proximal_R
+    400060: Left ankle
+    400062: Left arm
+    400064: Left elbow
+    400066: Left knee
+    400068: Left leg
+    400070: Left leg 2
+    400072: Left shoulder
+    400074: Left toe
+    400076: Left wrist
+    400078: LeftEye
+    400080: Little_Distal_L
+    400082: Little_Distal_R
+    400084: Little_Intermediate_L
+    400086: Little_Intermediate_R
+    400088: Little_Proximal_L
+    400090: Little_Proximal_R
+    400092: //RootNode
+    400094: Middle_Distal_
+    400096: Middle_Distal_L
+    400098: Middle_Intermediate_L
+    400100: Middle_Intermediate_R
+    400102: Middle_Proximal_L
+    400104: Middle_Proximal_R
+    400106: Neck
+    400108: Right ankle
+    400110: Right arm
+    400112: Right elbow
+    400114: Right knee
+    400116: Right leg
+    400118: Right leg 2
+    400120: Right shoulder
+    400122: Right toe
+    400124: Right wrist
+    400126: RightEye
+    400128: Ring_Distal_L
+    400130: Ring_Distal_R
+    400132: Ring_Intermediate_L
+    400134: Ring_Intermediate_R
+    400136: Ring_Proximal_L
+    400138: Ring_Proximal_R
+    400140: Skirt_0_0
+    400142: Skirt_0_1
+    400144: Skirt_0_10
+    400146: Skirt_0_11
+    400148: Skirt_0_12
+    400150: Skirt_0_13
+    400152: Skirt_0_14
+    400154: Skirt_0_2
+    400156: Skirt_0_3
+    400158: Skirt_0_4
+    400160: Skirt_0_5
+    400162: Skirt_0_6
+    400164: Skirt_0_7
+    400166: Skirt_0_8
+    400168: Skirt_0_9
+    400170: Skirt_1_0
+    400172: Skirt_1_1
+    400174: Skirt_1_10
+    400176: Skirt_1_11
+    400178: Skirt_1_12
+    400180: Skirt_1_13
+    400182: Skirt_1_14
+    400184: Skirt_1_2
+    400186: Skirt_1_3
+    400188: Skirt_1_4
+    400190: Skirt_1_5
+    400192: Skirt_1_6
+    400194: Skirt_1_7
+    400196: Skirt_1_8
+    400198: Skirt_1_9
+    400200: Skirt_2_0
+    400202: Skirt_2_1
+    400204: Skirt_2_10
+    400206: Skirt_2_11
+    400208: Skirt_2_12
+    400210: Skirt_2_13
+    400212: Skirt_2_14
+    400214: Skirt_2_2
+    400216: Skirt_2_3
+    400218: Skirt_2_4
+    400220: Skirt_2_5
+    400222: Skirt_2_6
+    400224: Skirt_2_7
+    400226: Skirt_2_8
+    400228: Skirt_2_9
+    400230: Skirt_3_0
+    400232: Skirt_3_1
+    400234: Skirt_3_10
+    400236: Skirt_3_11
+    400238: Skirt_3_12
+    400240: Skirt_3_13
+    400242: Skirt_3_14
+    400244: Skirt_3_2
+    400246: Skirt_3_3
+    400248: Skirt_3_4
+    400250: Skirt_3_5
+    400252: Skirt_3_6
+    400254: Skirt_3_7
+    400256: Skirt_3_8
+    400258: Skirt_3_9
+    400260: Skirt_4_0
+    400262: Skirt_4_1
+    400264: Skirt_4_10
+    400266: Skirt_4_11
+    400268: Skirt_4_12
+    400270: Skirt_4_13
+    400272: Skirt_4_14
+    400274: Skirt_4_2
+    400276: Skirt_4_3
+    400278: Skirt_4_4
+    400280: Skirt_4_5
+    400282: Skirt_4_6
+    400284: Skirt_4_7
+    400286: Skirt_4_8
+    400288: Skirt_4_9
+    400290: Skirt_5_0
+    400292: Skirt_5_1
+    400294: Skirt_5_10
+    400296: Skirt_5_11
+    400298: Skirt_5_12
+    400300: Skirt_5_13
+    400302: Skirt_5_14
+    400304: Skirt_5_2
+    400306: Skirt_5_3
+    400308: Skirt_5_4
+    400310: Skirt_5_5
+    400312: Skirt_5_6
+    400314: Skirt_5_7
+    400316: Skirt_5_8
+    400318: Skirt_5_9
+    400320: Spine
+    400322: Tail_01
+    400324: Tail_02
+    400326: Tail_03
+    400328: Tail_04
+    400330: Tail_05
+    400332: Tail_06
+    400334: Tail_07
+    400336: Tail_08
+    400338: Tail_09
+    400340: Thumb_Distal_L
+    400342: Thumb_Distal_R
+    400344: Thumb_Intermediate_L
+    400346: Thumb_Intermediate_R
+    400348: Thumb_Proximal_L
+    400350: Thumb_Proximal_R
+    2100000: "Lo\uFF57poly_kon_PC"
+    2100002: hair.002
+    2100004: bod.003
+    2100006: acc.002
+    2100008: "Lo\uFF57poly_kon_PC.001"
+    4300000: Body
+    9500000: //RootNode
+    13700000: Body
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

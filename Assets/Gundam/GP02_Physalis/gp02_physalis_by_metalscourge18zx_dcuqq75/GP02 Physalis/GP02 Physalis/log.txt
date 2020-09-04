@@ -1,0 +1,77 @@
+root ground bone added
+bip collar L --> bip collar l
+bip upperArm L --> bip upperarm l
+bip lowerArm L --> bip lowerarm l
+bip collar R --> bip collar r
+bip upperArm R --> bip upperarm r
+bip lowerArm R --> bip lowerarm r
+bip hip L --> bip hip l
+bip knee L --> bip knee l
+bip foot L --> bip foot l
+bip toe L --> bip toe l
+bip hip R --> bip hip r
+bip knee R --> bip knee r
+bip foot R --> bip foot r
+bip toe R --> bip toe r
+bip hand L --> bip hand l
+bip pinky 0 L --> bip pinky 0 l
+bip pinky 1 L --> bip pinky 1 l
+bip pinky 2 L --> bip pinky 2 l
+bip ring 0 L --> bip ring 0 l
+bip ring 1 L --> bip ring 1 l
+bip ring 2 L --> bip ring 2 l
+bip middle 0 L --> bip middle 0 l
+bip middle 1 L --> bip middle 1 l
+bip middle 2 L --> bip middle 2 l
+bip index 0 L --> bip index 0 l
+bip index 1 L --> bip index 1 l
+bip index 2 L --> bip index 2 l
+bip thumb 0 L --> bip thumb 0 l
+bip thumb 1 L --> bip thumb 1 l
+bip hand R --> bip hand r
+bip pinky 0 R --> bip pinky 0 r
+bip pinky 1 R --> bip pinky 1 r
+bip pinky 2 R --> bip pinky 2 r
+bip ring 0 R --> bip ring 0 r
+bip ring 1 R --> bip ring 1 r
+bip ring 2 R --> bip ring 2 r
+bip middle 0 R --> bip middle 0 r
+bip middle 1 R --> bip middle 1 r
+bip middle 2 R --> bip middle 2 r
+bip index 0 R --> bip index 0 r
+bip index 1 R --> bip index 1 r
+bip index 2 R --> bip index 2 r
+bip thumb 0 R --> bip thumb 0 r
+bip thumb 1 R --> bip thumb 1 r
+fist hand L --> fist hand l
+fist pinky 0 L --> fist pinky 0 l
+fist pinky 1 L --> fist pinky 1 l
+fist pinky 2 L --> fist pinky 2 l
+fist ring 0 L --> fist ring 0 l
+fist ring 1 L --> fist ring 1 l
+fist ring 2 L --> fist ring 2 l
+fist middle 0 L --> fist middle 0 l
+fist middle 1 L --> fist middle 1 l
+fist middle 2 L --> fist middle 2 l
+fist index 0 L --> fist index 0 l
+fist index 1 L --> fist index 1 l
+fist index 2 L --> fist index 2 l
+fist thumb 0 L --> fist thumb 0 l
+fist thumb 1 L --> fist thumb 1 l
+fist hand R --> fist hand r
+fist pinky 0 R --> fist pinky 0 r
+fist pinky 1 R --> fist pinky 1 r
+fist pinky 2 R --> fist pinky 2 r
+fist ring 0 R --> fist ring 0 r
+fist ring 1 R --> fist ring 1 r
+fist ring 2 R --> fist ring 2 r
+fist middle 0 R --> fist middle 0 r
+fist middle 1 R --> fist middle 1 r
+fist middle 2 R --> fist middle 2 r
+fist index 0 R --> fist index 0 r
+fist index 1 R --> fist index 1 r
+fist index 2 R --> fist index 2 r
+fist thumb 0 R --> fist thumb 0 r
+fist thumb 1 R --> fist thumb 1 r
+=========
+0

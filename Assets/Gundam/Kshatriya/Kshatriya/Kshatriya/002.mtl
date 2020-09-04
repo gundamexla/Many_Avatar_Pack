@@ -1,0 +1,13 @@
+newmtl surface_000
+map_Kd 000.dds
+
+newmtl surface_001
+map_Kd 003.dds
+
+newmtl surface_002
+map_Kd 006.dds
+
+newmtl surface_003
+
+newmtl surface_004
+

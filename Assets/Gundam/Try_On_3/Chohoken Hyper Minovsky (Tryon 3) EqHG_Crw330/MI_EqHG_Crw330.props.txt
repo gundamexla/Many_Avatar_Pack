@@ -1,0 +1,96 @@
+ScalarParameterValues[1] =
+{
+    ScalarParameterValues[0] =
+    {
+        ParameterName = RefractionDepthBias
+        ParameterValue = 0
+        ParameterInfo = { Name=None }
+    }
+}
+TextureParameterValues[11] =
+{
+    TextureParameterValues[0] =
+    {
+        ParameterName = (col)BaseTex
+        ParameterValue = Texture2D'/Game/Model/Equip/EqHG_Crw330/EqHG_Crw330_col.EqHG_Crw330_col'
+        ParameterInfo = { Name=None }
+    }
+    TextureParameterValues[1] =
+    {
+        ParameterName = (E01)Airbrush/DirtyLegsMap
+        ParameterValue = Texture2D'/Game/Model/Equip/EqHG_Crw330/EqHG_Crw330_E01.EqHG_Crw330_E01'
+        ParameterInfo = { Name=None }
+    }
+    TextureParameterValues[2] =
+    {
+        ParameterName = (E02)ChippingTex
+        ParameterValue = Texture2D'/Game/Model/Equip/EqHG_Crw330/EqHG_Crw330_E02.EqHG_Crw330_E02'
+        ParameterInfo = { Name=None }
+    }
+    TextureParameterValues[3] =
+    {
+        ParameterName = (mtl)MetalMask
+        ParameterValue = Texture2D'/Game/Model/Equip/EqHG_Crw330/EqHG_Crw330_mtl.EqHG_Crw330_mtl'
+        ParameterInfo = { Name=None }
+    }
+    TextureParameterValues[4] =
+    {
+        ParameterName = (nor)NormalMap
+        ParameterValue = Texture2D'/Game/Model/Equip/EqHG_Crw330/EqHG_Crw330_nor.EqHG_Crw330_nor'
+        ParameterInfo = { Name=None }
+    }
+    TextureParameterValues[5] =
+    {
+        ParameterName = (P00)ControlMap
+        ParameterValue = Texture2D'/Game/Model/Equip/EqHG_Crw330/EqHG_Crw330_ctl.EqHG_Crw330_ctl'
+        ParameterInfo = { Name=None }
+    }
+    TextureParameterValues[6] =
+    {
+        ParameterName = (P00)PaintImpossibilityTex
+        ParameterValue = Texture2D'/Game/Model/Equip/EqHG_Crw330/EqHG_Crw330_P00.EqHG_Crw330_P00'
+        ParameterInfo = { Name=None }
+    }
+    TextureParameterValues[7] =
+    {
+        ParameterName = (P10)PaintMap1
+        ParameterValue = Texture2D'/Game/Model/Equip/EqHG_Crw330/EqHG_Crw330_P10.EqHG_Crw330_P10'
+        ParameterInfo = { Name=None }
+    }
+    TextureParameterValues[8] =
+    {
+        ParameterName = (P20)PaintMap2
+        ParameterValue = Texture2D'/Game/Model/Equip/EqHG_Crw330/EqHG_Crw330_P20.EqHG_Crw330_P20'
+        ParameterInfo = { Name=None }
+    }
+    TextureParameterValues[9] =
+    {
+        ParameterName = (P30)EmissiveMap
+        ParameterValue = Texture2D'/Game/Model/Equip/EqHG_Crw330/EqHG_Crw330_P30.EqHG_Crw330_P30'
+        ParameterInfo = { Name=None }
+    }
+    TextureParameterValues[10] =
+    {
+        ParameterName = (rgh)RoughnessMask
+        ParameterValue = Texture2D'/Game/Model/Equip/EqHG_Crw330/EqHG_Crw330_rgh.EqHG_Crw330_rgh'
+        ParameterInfo = { Name=None }
+    }
+}
+VectorParameterValues[0] = {}
+Parent = Material3'/Game/Model/Shader/M_Common_MS.M_Common_MS'
+BasePropertyOverrides =
+{
+    bOverride_BlendMode = false
+    BlendMode = BLEND_Opaque (0)
+    bOverride_TwoSided = false
+    TwoSided = false
+    bOverride_OpacityMaskClipValue = false
+    OpacityMaskClipValue = 0
+}
+FlattenedTexture = None
+MobileBaseTexture = None
+MobileNormalTexture = None
+bUseMobileSpecular = false
+MobileSpecularPower = 16
+MobileSpecularMask = MSM_Constant (0)
+MobileMaskTexture = None

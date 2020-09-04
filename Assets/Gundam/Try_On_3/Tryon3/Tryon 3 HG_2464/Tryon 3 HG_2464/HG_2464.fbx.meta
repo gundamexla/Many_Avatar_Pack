@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 660af74c47129bc4da198cbeabc11571
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: HG_2460_J_L_armExtra_380
+    100002: HG_2460_J_L_armExtra_380_end
+    100004: //RootNode
+    100006: HG_2464.ao
+    100008: HG_2464.mo
+    100010: J_L_armCnct_320
+    100012: J_L_armCnct_320_end
+    100014: J_L_elbow_302
+    100016: J_L_foreArm_303
+    100018: J_L_handA_306
+    100020: J_L_handA_306_end
+    100022: J_L_handB_307
+    100024: J_L_handB_307_end
+    100026: J_L_handC_308
+    100028: J_L_handC_308_end
+    100030: J_L_shieldA_380
+    100032: J_L_shieldA_380_end
+    100034: J_L_shieldB_381
+    100036: J_L_shieldB_381_end
+    100038: J_L_shieldC_382
+    100040: J_L_shieldC_382_end
+    100042: J_L_shieldD_383
+    100044: J_L_shieldD_383_end
+    100046: J_L_shieldE_384
+    100048: J_L_shieldE_384_end
+    100050: J_L_shieldF_385
+    100052: J_L_shieldF_385_end
+    100054: J_L_shoulder_300
+    100056: J_L_sldArmor_310
+    100058: J_L_sldArmor_310_end
+    100060: J_L_upArm_301
+    100062: J_L_weapon_305
+    100064: J_L_weapon_305_end
+    100066: J_L_wrist_304
+    100068: jointroot_000
+    100070: root
+    100072: rot_y
+    100074: rot_y_end
+    400000: HG_2460_J_L_armExtra_380
+    400002: HG_2460_J_L_armExtra_380_end
+    400004: //RootNode
+    400006: HG_2464.ao
+    400008: HG_2464.mo
+    400010: J_L_armCnct_320
+    400012: J_L_armCnct_320_end
+    400014: J_L_elbow_302
+    400016: J_L_foreArm_303
+    400018: J_L_handA_306
+    400020: J_L_handA_306_end
+    400022: J_L_handB_307
+    400024: J_L_handB_307_end
+    400026: J_L_handC_308
+    400028: J_L_handC_308_end
+    400030: J_L_shieldA_380
+    400032: J_L_shieldA_380_end
+    400034: J_L_shieldB_381
+    400036: J_L_shieldB_381_end
+    400038: J_L_shieldC_382
+    400040: J_L_shieldC_382_end
+    400042: J_L_shieldD_383
+    400044: J_L_shieldD_383_end
+    400046: J_L_shieldE_384
+    400048: J_L_shieldE_384_end
+    400050: J_L_shieldF_385
+    400052: J_L_shieldF_385_end
+    400054: J_L_shoulder_300
+    400056: J_L_sldArmor_310
+    400058: J_L_sldArmor_310_end
+    400060: J_L_upArm_301
+    400062: J_L_weapon_305
+    400064: J_L_weapon_305_end
+    400066: J_L_wrist_304
+    400068: jointroot_000
+    400070: root
+    400072: rot_y
+    400074: rot_y_end
+    2100000: MI_HG_2463
+    4300000: HG_2464.mo
+    9500000: //RootNode
+    13700000: HG_2464.mo
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

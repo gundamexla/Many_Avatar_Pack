@@ -1,0 +1,1946 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 3}
+  - {fileID: 16}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 30
+    width: 1904
+    height: 931
+  m_MinSize: {x: 683, y: 498}
+  m_MaxSize: {x: 14004, y: 14048}
+  vertical: 0
+  controlID: 97
+--- !u!114 &2
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12019, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Debug
+    m_Image: {fileID: -6905738622615590433, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1443
+    y: 81
+    width: 467
+    height: 911
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_ObjectsLockedBeforeSerialization: []
+  m_InstanceIDsLockedBeforeSerialization: 
+  m_LockTracker:
+    m_IsLocked: 0
+  m_PreviewResizer:
+    m_CachedPref: 367
+    m_ControlHash: -371814159
+    m_PrefName: Preview_InspectorPreview
+  m_PreviewWindow: {fileID: 0}
+--- !u!114 &3
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 4}
+  - {fileID: 12}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1435
+    height: 931
+  m_MinSize: {x: 406, y: 498}
+  m_MaxSize: {x: 10002, y: 14048}
+  vertical: 1
+  controlID: 78
+--- !u!114 &4
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 5}
+  - {fileID: 7}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1435
+    height: 657
+  m_MinSize: {x: 406, y: 224}
+  m_MaxSize: {x: 8006, y: 4024}
+  vertical: 0
+  controlID: 79
+--- !u!114 &5
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 417
+    height: 657
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 6}
+  m_Panes:
+  - {fileID: 6}
+  m_Selected: 0
+  m_LastSelected: 0
+--- !u!114 &6
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Hierarchy
+    m_Image: {fileID: -590624980919486359, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 8
+    y: 81
+    width: 415
+    height: 637
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_SceneHierarchy:
+    m_TreeViewState:
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: dec90000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 5edffdffc0e9fdffc8e9fdffd0e9fdffd8e9fdffdce9fdffe4e9fdffe8e9fdfff0e9fdfff4e9fdfffce9fdff00eafdff04eafdff08eafdff0ceafdff10eafdff18eafdff1ceafdff24eafdff28eafdff2ceafdff30eafdff34eafdff3ceafdff40eafdff44eafdff48eafdff4ceafdff54eafdff58eafdff60eafdff64eafdff68eafdff6ceafdff70eafdff78eafdff7ceafdff80eafdff84eafdff88eafdffb8eafdffbceafdffc0eafdffc8eafdffcceafdffd0eafdffd8eafdffdceafdffe0eafdffe8eafdffeceafdfff0eafdfff8eafdfffceafdff00ebfdff08ebfdff0cebfdff10ebfdff18ebfdff1cebfdff20ebfdff28ebfdff2cebfdff30ebfdff34ebfdff3cebfdff40ebfdff44ebfdff48ebfdff50ebfdff54ebfdff58ebfdff5cebfdff64ebfdff68ebfdff6cebfdff70ebfdff78ebfdff7cebfdff80ebfdff88ebfdff8cebfdff90ebfdff98ebfdff9cebfdffa0ebfdffa8ebfdffacebfdffb0ebfdffb8ebfdffbcebfdffc0ebfdffc8ebfdffccebfdffd0ebfdffd8ebfdffdcebfdffe0ebfdffe4ebfdffe8ebfdfff0ebfdfff4ebfdfff8ebfdfffcebfdff00ecfdff08ecfdff10ecfdff14ecfdff1cecfdff20ecfdff28ecfdff2cecfdff34ecfdff38ecfdff3cecfdff40ecfdff44ecfdff48ecfdff54ecfdff58ecfdff64ecfdff68ecfdff7cecfdff80ecfdff8cecfdff90ecfdffa4ecfdffa8ecfdffb4ecfdffb8ecfdffc0ecfdffc4ecfdffc8ecfdffceecfdfff2ecfdff1211ffff3e11ffff5411ffff7611ffff3a12ffff3c12ffff3e12ffff441affff4c1affff541affff5c1affff601affff681affff6c1affff741affff781affff801affff841affff881affff8c1affff901affff941affff9c1affffa01affffa81affffac1affffb01affffb41affffb81affffc01affffc41affffc81affffcc1affffd01affffd81affffdc1affffe41affffe81affffec1afffff01afffff41afffffc1affff001bffff041bffff081bffff0c1bffff3c1bffff401bffff441bffff4c1bffff501bffff541bffff5c1bffff601bffff641bffff6c1bffff701bffff741bffff7c1bffff801bffff841bffff8c1bffff901bffff941bffff9c1bffffa01bffffa41bffffac1bffffb01bffffb41bffffb81bffffc01bffffc41bffffc81bffffcc1bffffd41bffffd81bffffdc1bffffe01bffffe81bffffec1bfffff01bfffff41bfffffc1bffff001cffff041cffff0c1cffff101cffff141cffff1c1cffff201cffff241cffff2c1cffff301cffff341cffff3c1cffff401cffff441cffff4c1cffff501cffff541cffff5c1cffff601cffff641cffff681cffff6c1cffff741cffff781cffff7c1cffff801cffff841cffff8c1cffff941cffff981cffffa01cffffa41cffffac1cffffb01cffffb81cffffbc1cffffc01cffffc41cffffc81cffffcc1cffffd81cffffdc1cffffe81cffffec1cffff001dffff041dffff101dffff141dffff281dffff2c1dffff381dffff3c1dffff441dffff481dffff4c1dffff521dffff741dffffb425fffffa35ffff289cffff749cffff789cffff809cffff829cffffb49cffffc29cffffe69cffffa89dffffcefaffffdefbfffffc8100000c820000a08200004c83000050830000
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: 0
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 11
+        m_IsRenamingFilename: 0
+        m_ClientGUIView: {fileID: 5}
+      m_SearchString: 
+    m_ExpandedScenes: []
+    m_CurrenRootInstanceID: 0
+    m_LockTracker:
+      m_IsLocked: 0
+    m_CurrentSortingName: TransformSorting
+  m_WindowGUID: a2831e08eff91aa41a7306366a8e3881
+--- !u!114 &7
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 417
+    y: 0
+    width: 1018
+    height: 657
+  m_MinSize: {x: 204, y: 224}
+  m_MaxSize: {x: 4004, y: 4024}
+  m_ActualView: {fileID: 8}
+  m_Panes:
+  - {fileID: 8}
+  - {fileID: 9}
+  - {fileID: 10}
+  - {fileID: 11}
+  m_Selected: 0
+  m_LastSelected: 1
+--- !u!114 &8
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12013, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Scene
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 425
+    y: 81
+    width: 1014
+    height: 637
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_WindowGUID: 773102494400d6a4f80000457a29b100
+  m_SceneLighting: 1
+  m_2DMode: 0
+  m_isRotationLocked: 0
+  m_AudioPlay: 0
+  m_Position:
+    m_Target: {x: -0.26123047, y: 0.23950195, z: -0.21386719}
+    speed: 2
+    m_Value: {x: -0.26123047, y: 0.23950195, z: -0.21386719}
+  m_RenderMode: 0
+  m_CameraMode:
+    drawMode: 0
+    name: Shaded
+    section: Shading Mode
+  m_ValidateTrueMetals: 0
+  m_SceneViewState:
+    showFog: 1
+    showMaterialUpdate: 1
+    showSkybox: 1
+    showFlares: 1
+    showImageEffects: 1
+    showParticleSystems: 1
+  grid:
+    xGrid:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+    yGrid:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+    zGrid:
+      m_Target: 0
+      speed: 2
+      m_Value: 0
+  m_Rotation:
+    m_Target: {x: -0.00437989, y: 0.9742736, z: 0.019000849, w: 0.22452639}
+    speed: 2
+    m_Value: {x: -0.0043798867, y: 0.9742729, z: 0.019000836, w: 0.22452623}
+  m_Size:
+    m_Target: 1.3869328
+    speed: 2
+    m_Value: 1.3869328
+  m_Ortho:
+    m_Target: 1
+    speed: 2
+    m_Value: 1
+  m_ShowGlobalGrid: 1
+  m_LastSceneViewRotation: {x: -0.0012834069, y: -0.9840286, z: 0.17786464, w: -0.007091807}
+  m_LastSceneViewOrtho: 0
+  m_ReplacementShader: {fileID: 0}
+  m_ReplacementString: 
+  m_LastLockedObject: {fileID: 0}
+  m_ViewIsLockedToObject: 0
+--- !u!114 &9
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12015, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Game
+    m_Image: {fileID: -2087823869225018852, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 425
+    y: 81
+    width: 1014
+    height: 637
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_MaximizeOnPlay: 0
+  m_Gizmos: 0
+  m_Stats: 0
+  m_SelectedSizes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_TargetDisplay: 0
+  m_ZoomArea:
+    m_HRangeLocked: 0
+    m_VRangeLocked: 0
+    hZoomLockedByDefault: 0
+    vZoomLockedByDefault: 0
+    m_HBaseRangeMin: -507
+    m_HBaseRangeMax: 507
+    m_VBaseRangeMin: -310
+    m_VBaseRangeMax: 310
+    m_HAllowExceedBaseRangeMin: 1
+    m_HAllowExceedBaseRangeMax: 1
+    m_VAllowExceedBaseRangeMin: 1
+    m_VAllowExceedBaseRangeMax: 1
+    m_ScaleWithWindow: 0
+    m_HSlider: 0
+    m_VSlider: 0
+    m_IgnoreScrollWheelUntilClicked: 0
+    m_EnableMouseInput: 0
+    m_EnableSliderZoomHorizontal: 0
+    m_EnableSliderZoomVertical: 0
+    m_UniformScale: 1
+    m_UpDirection: 1
+    m_DrawArea:
+      serializedVersion: 2
+      x: 0
+      y: 17
+      width: 1014
+      height: 620
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 507, y: 310}
+    m_MarginLeft: 0
+    m_MarginRight: 0
+    m_MarginTop: 0
+    m_MarginBottom: 0
+    m_LastShownAreaInsideMargins:
+      serializedVersion: 2
+      x: -507
+      y: -310
+      width: 1014
+      height: 620
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_TargetTexture: {fileID: 0}
+  m_CurrentColorSpace: 1
+  m_LastWindowPixelSize: {x: 1014, y: 637}
+  m_ClearInEditMode: 1
+  m_NoCameraWarning: 1
+  m_LowResolutionForAspectRatios: 01000000000100000100
+  m_XRRenderMode: 0
+--- !u!114 &10
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12111, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 400, y: 100}
+  m_MaxSize: {x: 2048, y: 2048}
+  m_TitleContent:
+    m_Text: Asset Store
+    m_Image: {fileID: 357073275683767465, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 419
+    y: 73
+    width: 1021
+    height: 648
+  m_PersistentViewDataDictionary: {fileID: 0}
+--- !u!114 &11
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12914, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Animator
+    m_Image: {fileID: 663490763026382308, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 544
+    y: 100
+    width: 956
+    height: 531
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_ViewTransforms:
+    m_KeySerializationHelper:
+    - {fileID: 1107939933637992896, guid: 1554cdbce99d17d42b97ecc9f807d430, type: 2}
+    m_ValueSerializationHelper:
+    - e00: 1
+      e01: 0
+      e02: 0
+      e03: 0
+      e10: 0
+      e11: 1
+      e12: 0
+      e13: 0
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  m_PreviewAnimator: {fileID: 0}
+  m_AnimatorController: {fileID: 9100000, guid: 1554cdbce99d17d42b97ecc9f807d430,
+    type: 2}
+  m_BreadCrumbs:
+  - m_Target: {fileID: 1107939933637992896, guid: 1554cdbce99d17d42b97ecc9f807d430,
+      type: 2}
+    m_ScrollPosition: {x: 0, y: 0}
+  stateMachineGraph: {fileID: 0}
+  stateMachineGraphGUI: {fileID: 0}
+  blendTreeGraph: {fileID: 0}
+  blendTreeGraphGUI: {fileID: 0}
+  m_AutoLiveLink: 1
+  m_MiniTool: 0
+  m_LockTracker:
+    m_IsLocked: 0
+  m_CurrentEditor: 0
+  m_LayerEditor:
+    m_SelectedLayerIndex: 0
+--- !u!114 &12
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 657
+    width: 1435
+    height: 274
+  m_MinSize: {x: 232, y: 274}
+  m_MaxSize: {x: 10002, y: 10024}
+  m_ActualView: {fileID: 13}
+  m_Panes:
+  - {fileID: 13}
+  - {fileID: 14}
+  - {fileID: 15}
+  m_Selected: 0
+  m_LastSelected: 2
+--- !u!114 &13
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12014, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_TitleContent:
+    m_Text: Project
+    m_Image: {fileID: -7501376956915960154, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 8
+    y: 738
+    width: 1433
+    height: 254
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_SearchFilter:
+    m_NameFilter: 
+    m_ClassNames: []
+    m_AssetLabels: []
+    m_AssetBundleNames: []
+    m_VersionControlStates: []
+    m_SoftLockControlStates: []
+    m_ReferencingInstanceIDs: 
+    m_SceneHandles: 
+    m_ShowAllHits: 0
+    m_SearchArea: 1
+    m_Folders:
+    - Assets/Gundam/Gadessa/Anim/Idle
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+  - Assets/Gundam/Gadessa/Anim/Idle
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: "C:\\Users\\\uC9C0\uBBF8\uB2C8\uB124\\Documents\\Meka_Girl"
+  m_LockTracker:
+    m_IsLocked: 0
+  m_FolderTreeState:
+    scrollPos: {x: 0, y: 815}
+    m_SelectedIDs: 7e6e0000
+    m_LastClickedID: 28286
+    m_ExpandedIDs: 00000000600e0000c20e0000240f00004e0f0000d80f0000261000007a1000001a130000e21300001c1400005e14000032150000be150000f0160000f616000010170000a0170000ba1700000c180000141800005c18000092180000ae180000b61800006a190000aa190000e6190000ac1a0000ca1a00006a1c00005e1d0000861d00008a1d0000c41d0000e61d0000f81d00006e1e0000881f0000901f00009a20000006210000822100000e220000322300003e2300004623000020240000d4240000d6240000e2240000c42600006e2700000a280000ce280000ec280000062900000c29000016290000e22900003e2a0000602a00008c4c0000de4f0000bc660000e26a0000786e000000ca9a3b
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_AssetTreeState:
+    scrollPos: {x: 0, y: 0}
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 00000000600e0000c20e0000240f00004e0f0000d80f0000261000007a1000001a130000e21300001c1400005e14000032150000be150000f0160000f616000010170000a0170000ba170000141800005c18000092180000ae180000b61800006a190000aa190000e6190000ac1a0000ca1a00006a1c00005e1d0000861d00008a1d0000c41d0000e61d0000f81d00006e1e0000881f0000901f00009a20000006210000822100000e220000322300003e2300004623000020240000d4240000d6240000e2240000c42600006e2700000a280000ce280000ec280000062900000c29000016290000e22900003e2a0000602a00008c4c0000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 0}
+    m_SearchString: 
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+  m_ListAreaState:
+    m_SelectedInstanceIDs: dec90000
+    m_LastClickedInstanceID: 51678
+    m_HadKeyboardFocusLastEvent: 1
+    m_ExpandedInstanceIDs: c623000018500000082d0000b4930000b6350000e62900004229000062310000183500006a2b0000b237000044100000ba6b00000611000062570000400e0000f64c0000da23000014120000ac12000002e404000000000036630000
+    m_RenameOverlay:
+      m_UserAcceptedRename: 0
+      m_Name: 
+      m_OriginalName: 
+      m_EditFieldRect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      m_UserData: 0
+      m_IsWaitingForDelay: 0
+      m_IsRenaming: 0
+      m_OriginalEventType: 11
+      m_IsRenamingFilename: 1
+      m_ClientGUIView: {fileID: 12}
+    m_CreateAssetUtility:
+      m_EndAction: {fileID: 0}
+      m_InstanceID: 0
+      m_Path: 
+      m_Icon: {fileID: 0}
+      m_ResourceFile: 
+    m_NewAssetIndexInList: -1
+    m_ScrollPosition: {x: 0, y: 0}
+    m_GridSize: 64
+  m_DirectoriesAreaWidth: 170
+--- !u!114 &14
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12003, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Console
+    m_Image: {fileID: 111653112392082826, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 8
+    y: 738
+    width: 1433
+    height: 254
+  m_PersistentViewDataDictionary: {fileID: 0}
+--- !u!114 &15
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12071, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Animation
+    m_Image: {fileID: 1561878555887300916, guid: 0000000000000000d000000000000000,
+      type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 8
+    y: 738
+    width: 1433
+    height: 254
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_LockTracker:
+    m_IsLocked: 0
+  m_LastSelectedObjectID: 76142
+--- !u!114 &16
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children: []
+  m_Position:
+    serializedVersion: 2
+    x: 1435
+    y: 0
+    width: 469
+    height: 931
+  m_MinSize: {x: 277, y: 74}
+  m_MaxSize: {x: 4002, y: 4024}
+  m_ActualView: {fileID: 2}
+  m_Panes:
+  - {fileID: 2}
+  - {fileID: 17}
+  - {fileID: 18}
+  - {fileID: 19}
+  m_Selected: 0
+  m_LastSelected: 3
+--- !u!114 &17
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12157, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: Services
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1442
+    y: 81
+    width: 468
+    height: 911
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_InitialOpenURL: https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub
+  m_GlobalObjectTypeName: 
+  m_RegisteredViewURLs:
+  - https://public-cdn.cloud.unity3d.com/editor/production/cloud/hub
+  m_RegisteredViewInstances:
+  - {fileID: 0}
+--- !u!114 &18
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e79b932f1e33cd4a8c9c1e13abd0779, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: EmoteSwitchV3 Editor
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1443
+    y: 81
+    width: 467
+    height: 911
+  m_PersistentViewDataDictionary: {fileID: 0}
+--- !u!114 &19
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a328c0157dbaca40b467c9a6f176d94, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_TitleContent:
+    m_Text: MAEditor
+    m_Image: {fileID: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1443
+    y: 81
+    width: 467
+    height: 911
+  m_PersistentViewDataDictionary: {fileID: 0}
+  clip: {fileID: 0}
+  time: 0
+  frame: 0
+  target: {fileID: 0}
+  tabMuscle:
+    clip: {fileID: 0}
+    time: 0
+    frame: 0
+    target: {fileID: 0}
+    muscleToggle: 0100000101010000000000000100010000000000000101010100010000010101010000000001010101010100000001010101010100000001010101010001010100010101000101010001010101010101000101010001010100010101000101
+    muscleName:
+    - Spine Front-Back
+    - Spine Left-Right
+    - Spine Twist Left-Right
+    - Chest Front-Back
+    - Chest Left-Right
+    - Chest Twist Left-Right
+    - UpperChest Front-Back
+    - UpperChest Left-Right
+    - UpperChest Twist Left-Right
+    - Neck Nod Down-Up
+    - Neck Tilt Left-Right
+    - Neck Turn Left-Right
+    - Head Nod Down-Up
+    - Head Tilt Left-Right
+    - Head Turn Left-Right
+    - Eye Down-Up
+    - Eye In-Out
+    - Eye Down-Up
+    - Eye In-Out
+    - Jaw Close
+    - Jaw Left-Right
+    - Upper Leg Front-Back
+    - Upper Leg In-Out
+    - Upper Leg Twist In-Out
+    - Lower Leg Stretch
+    - Lower Leg Twist In-Out
+    - Foot Up-Down
+    - Foot Twist In-Out
+    - Toes Up-Down
+    - Upper Leg Front-Back
+    - Upper Leg In-Out
+    - Upper Leg Twist In-Out
+    - Lower Leg Stretch
+    - Lower Leg Twist In-Out
+    - Foot Up-Down
+    - Foot Twist In-Out
+    - Toes Up-Down
+    - Shoulder Down-Up
+    - Shoulder Front-Back
+    - Arm Down-Up
+    - Arm Front-Back
+    - Arm Twist In-Out
+    - Forearm Stretch
+    - Forearm Twist In-Out
+    - Hand Down-Up
+    - Hand In-Out
+    - Shoulder Down-Up
+    - Shoulder Front-Back
+    - Arm Down-Up
+    - Arm Front-Back
+    - Arm Twist In-Out
+    - Forearm Stretch
+    - Forearm Twist In-Out
+    - Hand Down-Up
+    - Hand In-Out
+    - Thumb 1 Stretched
+    - Thumb Spread
+    - Thumb 2 Stretched
+    - Thumb 3 Stretched
+    - Index 1 Stretched
+    - Index Spread
+    - Index 2 Stretched
+    - Index 3 Stretched
+    - Middle 1 Stretched
+    - Middle Spread
+    - Middle 2 Stretched
+    - Middle 3 Stretched
+    - Ring 1 Stretched
+    - Ring Spread
+    - Ring 2 Stretched
+    - Ring 3 Stretched
+    - Little 1 Stretched
+    - Little Spread
+    - Little 2 Stretched
+    - Little 3 Stretched
+    - Thumb 1 Stretched
+    - Thumb Spread
+    - Thumb 2 Stretched
+    - Thumb 3 Stretched
+    - Index 1 Stretched
+    - Index Spread
+    - Index 2 Stretched
+    - Index 3 Stretched
+    - Middle 1 Stretched
+    - Middle Spread
+    - Middle 2 Stretched
+    - Middle 3 Stretched
+    - Ring 1 Stretched
+    - Ring Spread
+    - Ring 2 Stretched
+    - Ring 3 Stretched
+    - Little 1 Stretched
+    - Little Spread
+    - Little 2 Stretched
+    - Little 3 Stretched
+    muscleValue:
+    - -0.35164836
+    - 0
+    - 0
+    - -0.5714286
+    - -0.3956044
+    - 0.45054945
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - -0.35164833
+    - 0
+    - -0.61538464
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - -0.2857143
+    - 0.2967033
+    - -0.054945055
+    - 0.07692307
+    - 0
+    - -0.48351648
+    - 0
+    - 0
+    - 0.23076923
+    - 0.2747253
+    - -0.08791209
+    - 0.6703297
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0.31868133
+    - 1
+    - 0.18681318
+    - 0.25274727
+    - -0.08791209
+    - 0.10989014
+    - 0
+    - 0
+    - 0
+    - -0.06593407
+    - 1
+    - -0.5714286
+    - 0.51648355
+    - 0.31868133
+    - -0.16483516
+    - 0
+    - 0
+    - 0
+    - -1
+    - -1
+    - -1
+    - -1
+    - -1
+    - 0
+    - -1
+    - -1
+    - -1
+    - 0
+    - -1
+    - -1
+    - -1
+    - 0
+    - -1
+    - -1
+    - -1
+    - 0
+    - -1
+    - -1
+    - -1
+    - -1.8
+    - -1
+    - -1
+    - -1
+    - 0
+    - -1
+    - -1
+    - -1
+    - 0
+    - -1
+    - -1
+    - -1
+    - 0
+    - -1
+    - -1
+    - -1
+    - 0
+    - -1
+    - -1
+    muscleMasterValue:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - -1
+    - 0
+    - -1
+    - 0
+    muscleFingerValue:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    muscleBodyGroupToggle: 0000000000000000
+    propertyMuscleName:
+    - Spine Front-Back
+    - Spine Left-Right
+    - Spine Twist Left-Right
+    - Chest Front-Back
+    - Chest Left-Right
+    - Chest Twist Left-Right
+    - UpperChest Front-Back
+    - UpperChest Left-Right
+    - UpperChest Twist Left-Right
+    - Neck Nod Down-Up
+    - Neck Tilt Left-Right
+    - Neck Turn Left-Right
+    - Head Nod Down-Up
+    - Head Tilt Left-Right
+    - Head Turn Left-Right
+    - Left Eye Down-Up
+    - Left Eye In-Out
+    - Right Eye Down-Up
+    - Right Eye In-Out
+    - Jaw Close
+    - Jaw Left-Right
+    - Left Upper Leg Front-Back
+    - Left Upper Leg In-Out
+    - Left Upper Leg Twist In-Out
+    - Left Lower Leg Stretch
+    - Left Lower Leg Twist In-Out
+    - Left Foot Up-Down
+    - Left Foot Twist In-Out
+    - Left Toes Up-Down
+    - Right Upper Leg Front-Back
+    - Right Upper Leg In-Out
+    - Right Upper Leg Twist In-Out
+    - Right Lower Leg Stretch
+    - Right Lower Leg Twist In-Out
+    - Right Foot Up-Down
+    - Right Foot Twist In-Out
+    - Right Toes Up-Down
+    - Left Shoulder Down-Up
+    - Left Shoulder Front-Back
+    - Left Arm Down-Up
+    - Left Arm Front-Back
+    - Left Arm Twist In-Out
+    - Left Forearm Stretch
+    - Left Forearm Twist In-Out
+    - Left Hand Down-Up
+    - Left Hand In-Out
+    - Right Shoulder Down-Up
+    - Right Shoulder Front-Back
+    - Right Arm Down-Up
+    - Right Arm Front-Back
+    - Right Arm Twist In-Out
+    - Right Forearm Stretch
+    - Right Forearm Twist In-Out
+    - Right Hand Down-Up
+    - Right Hand In-Out
+    - LeftHand.Thumb.1 Stretched
+    - LeftHand.Thumb.Spread
+    - LeftHand.Thumb.2 Stretched
+    - LeftHand.Thumb.3 Stretched
+    - LeftHand.Index.1 Stretched
+    - LeftHand.Index.Spread
+    - LeftHand.Index.2 Stretched
+    - LeftHand.Index.3 Stretched
+    - LeftHand.Middle.1 Stretched
+    - LeftHand.Middle.Spread
+    - LeftHand.Middle.2 Stretched
+    - LeftHand.Middle.3 Stretched
+    - LeftHand.Ring.1 Stretched
+    - LeftHand.Ring.Spread
+    - LeftHand.Ring.2 Stretched
+    - LeftHand.Ring.3 Stretched
+    - LeftHand.Little.1 Stretched
+    - LeftHand.Little.Spread
+    - LeftHand.Little.2 Stretched
+    - LeftHand.Little.3 Stretched
+    - RightHand.Thumb.1 Stretched
+    - RightHand.Thumb.Spread
+    - RightHand.Thumb.2 Stretched
+    - RightHand.Thumb.3 Stretched
+    - RightHand.Index.1 Stretched
+    - RightHand.Index.Spread
+    - RightHand.Index.2 Stretched
+    - RightHand.Index.3 Stretched
+    - RightHand.Middle.1 Stretched
+    - RightHand.Middle.Spread
+    - RightHand.Middle.2 Stretched
+    - RightHand.Middle.3 Stretched
+    - RightHand.Ring.1 Stretched
+    - RightHand.Ring.Spread
+    - RightHand.Ring.2 Stretched
+    - RightHand.Ring.3 Stretched
+    - RightHand.Little.1 Stretched
+    - RightHand.Little.Spread
+    - RightHand.Little.2 Stretched
+    - RightHand.Little.3 Stretched
+    muscleCount: 95
+    curSelectGroup: 0
+    curSelectMasterGroup: 0
+    mirror: 0
+    rootT: 1
+    rootQ: 1
+    rootValue:
+    - 0
+    - 1.2
+    - 0
+    - -0.24991891
+    - -0
+    - -0.10177033
+    - 0.9629036
+    rootToggle: 01010101010101
+    showRootGUI: 1
+    showMuscleGroupGUI: 1
+    showMuscleGUI: 1
+  tabOption:
+    clip: {fileID: 0}
+    time: 0
+    frame: 0
+    target: {fileID: 0}
+    showWindowTool: 1
+    boneSize: 0.01
+    boneColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+    colorSelected: {r: 1, g: 0, b: 0, a: 1}
+    boneShape: 0
+    showBoneNames: 0
+    showSelectedNameOnly: 0
+    boneNameColor: {r: 1, g: 1, b: 1, a: 1}
+    showSkeleton: 0
+    showHumanSkeletonOnly: 0
+    skeletonWidth: 2
+    humanSkeletonColor: {r: 0, g: 1, b: 0, a: 1}
+    skeletonColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+    rootShape: 1
+    rootSize: 0.01
+    rootColor: {r: 1, g: 1, b: 1, a: 1}
+  muscleHandle:
+    tabMuscle:
+      clip: {fileID: 0}
+      time: 0
+      frame: 0
+      target: {fileID: 0}
+      muscleToggle: 0100000101010000000000000100010000000000000101010100010000010101010000000001010101010100000001010101010100000001010101010001010100010101000101010001010101010101000101010001010100010101000101
+      muscleName:
+      - Spine Front-Back
+      - Spine Left-Right
+      - Spine Twist Left-Right
+      - Chest Front-Back
+      - Chest Left-Right
+      - Chest Twist Left-Right
+      - UpperChest Front-Back
+      - UpperChest Left-Right
+      - UpperChest Twist Left-Right
+      - Neck Nod Down-Up
+      - Neck Tilt Left-Right
+      - Neck Turn Left-Right
+      - Head Nod Down-Up
+      - Head Tilt Left-Right
+      - Head Turn Left-Right
+      - Eye Down-Up
+      - Eye In-Out
+      - Eye Down-Up
+      - Eye In-Out
+      - Jaw Close
+      - Jaw Left-Right
+      - Upper Leg Front-Back
+      - Upper Leg In-Out
+      - Upper Leg Twist In-Out
+      - Lower Leg Stretch
+      - Lower Leg Twist In-Out
+      - Foot Up-Down
+      - Foot Twist In-Out
+      - Toes Up-Down
+      - Upper Leg Front-Back
+      - Upper Leg In-Out
+      - Upper Leg Twist In-Out
+      - Lower Leg Stretch
+      - Lower Leg Twist In-Out
+      - Foot Up-Down
+      - Foot Twist In-Out
+      - Toes Up-Down
+      - Shoulder Down-Up
+      - Shoulder Front-Back
+      - Arm Down-Up
+      - Arm Front-Back
+      - Arm Twist In-Out
+      - Forearm Stretch
+      - Forearm Twist In-Out
+      - Hand Down-Up
+      - Hand In-Out
+      - Shoulder Down-Up
+      - Shoulder Front-Back
+      - Arm Down-Up
+      - Arm Front-Back
+      - Arm Twist In-Out
+      - Forearm Stretch
+      - Forearm Twist In-Out
+      - Hand Down-Up
+      - Hand In-Out
+      - Thumb 1 Stretched
+      - Thumb Spread
+      - Thumb 2 Stretched
+      - Thumb 3 Stretched
+      - Index 1 Stretched
+      - Index Spread
+      - Index 2 Stretched
+      - Index 3 Stretched
+      - Middle 1 Stretched
+      - Middle Spread
+      - Middle 2 Stretched
+      - Middle 3 Stretched
+      - Ring 1 Stretched
+      - Ring Spread
+      - Ring 2 Stretched
+      - Ring 3 Stretched
+      - Little 1 Stretched
+      - Little Spread
+      - Little 2 Stretched
+      - Little 3 Stretched
+      - Thumb 1 Stretched
+      - Thumb Spread
+      - Thumb 2 Stretched
+      - Thumb 3 Stretched
+      - Index 1 Stretched
+      - Index Spread
+      - Index 2 Stretched
+      - Index 3 Stretched
+      - Middle 1 Stretched
+      - Middle Spread
+      - Middle 2 Stretched
+      - Middle 3 Stretched
+      - Ring 1 Stretched
+      - Ring Spread
+      - Ring 2 Stretched
+      - Ring 3 Stretched
+      - Little 1 Stretched
+      - Little Spread
+      - Little 2 Stretched
+      - Little 3 Stretched
+      muscleValue:
+      - -0.35164836
+      - 0
+      - 0
+      - -0.5714286
+      - -0.3956044
+      - 0.45054945
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - -0.35164833
+      - 0
+      - -0.61538464
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - -0.2857143
+      - 0.2967033
+      - -0.054945055
+      - 0.07692307
+      - 0
+      - -0.48351648
+      - 0
+      - 0
+      - 0.23076923
+      - 0.2747253
+      - -0.08791209
+      - 0.6703297
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0.31868133
+      - 1
+      - 0.18681318
+      - 0.25274727
+      - -0.08791209
+      - 0.10989014
+      - 0
+      - 0
+      - 0
+      - -0.06593407
+      - 1
+      - -0.5714286
+      - 0.51648355
+      - 0.31868133
+      - -0.16483516
+      - 0
+      - 0
+      - 0
+      - -1
+      - -1
+      - -1
+      - -1
+      - -1
+      - 0
+      - -1
+      - -1
+      - -1
+      - 0
+      - -1
+      - -1
+      - -1
+      - 0
+      - -1
+      - -1
+      - -1
+      - 0
+      - -1
+      - -1
+      - -1
+      - -1.8
+      - -1
+      - -1
+      - -1
+      - 0
+      - -1
+      - -1
+      - -1
+      - 0
+      - -1
+      - -1
+      - -1
+      - 0
+      - -1
+      - -1
+      - -1
+      - 0
+      - -1
+      - -1
+      muscleMasterValue:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - -1
+      - 0
+      - -1
+      - 0
+      muscleFingerValue:
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      - 0
+      muscleBodyGroupToggle: 0000000000000000
+      propertyMuscleName:
+      - Spine Front-Back
+      - Spine Left-Right
+      - Spine Twist Left-Right
+      - Chest Front-Back
+      - Chest Left-Right
+      - Chest Twist Left-Right
+      - UpperChest Front-Back
+      - UpperChest Left-Right
+      - UpperChest Twist Left-Right
+      - Neck Nod Down-Up
+      - Neck Tilt Left-Right
+      - Neck Turn Left-Right
+      - Head Nod Down-Up
+      - Head Tilt Left-Right
+      - Head Turn Left-Right
+      - Left Eye Down-Up
+      - Left Eye In-Out
+      - Right Eye Down-Up
+      - Right Eye In-Out
+      - Jaw Close
+      - Jaw Left-Right
+      - Left Upper Leg Front-Back
+      - Left Upper Leg In-Out
+      - Left Upper Leg Twist In-Out
+      - Left Lower Leg Stretch
+      - Left Lower Leg Twist In-Out
+      - Left Foot Up-Down
+      - Left Foot Twist In-Out
+      - Left Toes Up-Down
+      - Right Upper Leg Front-Back
+      - Right Upper Leg In-Out
+      - Right Upper Leg Twist In-Out
+      - Right Lower Leg Stretch
+      - Right Lower Leg Twist In-Out
+      - Right Foot Up-Down
+      - Right Foot Twist In-Out
+      - Right Toes Up-Down
+      - Left Shoulder Down-Up
+      - Left Shoulder Front-Back
+      - Left Arm Down-Up
+      - Left Arm Front-Back
+      - Left Arm Twist In-Out
+      - Left Forearm Stretch
+      - Left Forearm Twist In-Out
+      - Left Hand Down-Up
+      - Left Hand In-Out
+      - Right Shoulder Down-Up
+      - Right Shoulder Front-Back
+      - Right Arm Down-Up
+      - Right Arm Front-Back
+      - Right Arm Twist In-Out
+      - Right Forearm Stretch
+      - Right Forearm Twist In-Out
+      - Right Hand Down-Up
+      - Right Hand In-Out
+      - LeftHand.Thumb.1 Stretched
+      - LeftHand.Thumb.Spread
+      - LeftHand.Thumb.2 Stretched
+      - LeftHand.Thumb.3 Stretched
+      - LeftHand.Index.1 Stretched
+      - LeftHand.Index.Spread
+      - LeftHand.Index.2 Stretched
+      - LeftHand.Index.3 Stretched
+      - LeftHand.Middle.1 Stretched
+      - LeftHand.Middle.Spread
+      - LeftHand.Middle.2 Stretched
+      - LeftHand.Middle.3 Stretched
+      - LeftHand.Ring.1 Stretched
+      - LeftHand.Ring.Spread
+      - LeftHand.Ring.2 Stretched
+      - LeftHand.Ring.3 Stretched
+      - LeftHand.Little.1 Stretched
+      - LeftHand.Little.Spread
+      - LeftHand.Little.2 Stretched
+      - LeftHand.Little.3 Stretched
+      - RightHand.Thumb.1 Stretched
+      - RightHand.Thumb.Spread
+      - RightHand.Thumb.2 Stretched
+      - RightHand.Thumb.3 Stretched
+      - RightHand.Index.1 Stretched
+      - RightHand.Index.Spread
+      - RightHand.Index.2 Stretched
+      - RightHand.Index.3 Stretched
+      - RightHand.Middle.1 Stretched
+      - RightHand.Middle.Spread
+      - RightHand.Middle.2 Stretched
+      - RightHand.Middle.3 Stretched
+      - RightHand.Ring.1 Stretched
+      - RightHand.Ring.Spread
+      - RightHand.Ring.2 Stretched
+      - RightHand.Ring.3 Stretched
+      - RightHand.Little.1 Stretched
+      - RightHand.Little.Spread
+      - RightHand.Little.2 Stretched
+      - RightHand.Little.3 Stretched
+      muscleCount: 95
+      curSelectGroup: 0
+      curSelectMasterGroup: 0
+      mirror: 0
+      rootT: 1
+      rootQ: 1
+      rootValue:
+      - 0
+      - 1.2
+      - 0
+      - -0.24991891
+      - -0
+      - -0.10177033
+      - 0.9629036
+      rootToggle: 01010101010101
+      showRootGUI: 1
+      showMuscleGroupGUI: 1
+      showMuscleGUI: 1
+    tabOption:
+      clip: {fileID: 0}
+      time: 0
+      frame: 0
+      target: {fileID: 0}
+      showWindowTool: 1
+      boneSize: 0.01
+      boneColor: {r: 1, g: 0.92156863, b: 0.015686275, a: 1}
+      colorSelected: {r: 1, g: 0, b: 0, a: 1}
+      boneShape: 0
+      showBoneNames: 0
+      showSelectedNameOnly: 0
+      boneNameColor: {r: 1, g: 1, b: 1, a: 1}
+      showSkeleton: 0
+      showHumanSkeletonOnly: 0
+      skeletonWidth: 2
+      humanSkeletonColor: {r: 0, g: 1, b: 0, a: 1}
+      skeletonColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}
+      rootShape: 1
+      rootSize: 0.01
+      rootColor: {r: 1, g: 1, b: 1, a: 1}
+    target: {fileID: 0}
+    avatar: {fileID: 9000000, guid: fd4fc9d08477bde4e90195929b816716, type: 3}
+    muscleMinMaxValues:
+    - {x: -40, y: 40}
+    - {x: -40, y: 40}
+    - {x: -40, y: 40}
+    - {x: -40, y: 40}
+    - {x: -40, y: 40}
+    - {x: -40, y: 40}
+    - {x: -20, y: 20}
+    - {x: -20, y: 20}
+    - {x: -20, y: 20}
+    - {x: -40, y: 40}
+    - {x: -40, y: 40}
+    - {x: -40, y: 40}
+    - {x: -40, y: 40}
+    - {x: -40, y: 40}
+    - {x: -40, y: 40}
+    - {x: -10, y: 15}
+    - {x: -20, y: 20}
+    - {x: -10, y: 15}
+    - {x: -20, y: 20}
+    - {x: -10, y: 10}
+    - {x: -10, y: 10}
+    - {x: -90, y: 50}
+    - {x: -60, y: 60}
+    - {x: -60, y: 60}
+    - {x: -80, y: 80}
+    - {x: -90, y: 90}
+    - {x: -50, y: 50}
+    - {x: -30, y: 30}
+    - {x: -50, y: 50}
+    - {x: -90, y: 50}
+    - {x: -60, y: 60}
+    - {x: -60, y: 60}
+    - {x: -80, y: 80}
+    - {x: -90, y: 90}
+    - {x: -50, y: 50}
+    - {x: -30, y: 30}
+    - {x: -50, y: 50}
+    - {x: -15, y: 30}
+    - {x: -15, y: 15}
+    - {x: -60, y: 100}
+    - {x: -100, y: 100}
+    - {x: -90, y: 90}
+    - {x: -80, y: 80}
+    - {x: -90, y: 90}
+    - {x: -80, y: 80}
+    - {x: -40, y: 40}
+    - {x: -15, y: 30}
+    - {x: -15, y: 15}
+    - {x: -60, y: 100}
+    - {x: -100, y: 100}
+    - {x: -90, y: 90}
+    - {x: -80, y: 80}
+    - {x: -90, y: 90}
+    - {x: -80, y: 80}
+    - {x: -40, y: 40}
+    - {x: -20, y: 20}
+    - {x: -25, y: 25}
+    - {x: -40, y: 35}
+    - {x: -40, y: 35}
+    - {x: -50, y: 50}
+    - {x: -20, y: 20}
+    - {x: -45, y: 45}
+    - {x: -45, y: 45}
+    - {x: -50, y: 50}
+    - {x: -7.5, y: 7.5}
+    - {x: -45, y: 45}
+    - {x: -45, y: 45}
+    - {x: -50, y: 50}
+    - {x: -7.5, y: 7.5}
+    - {x: -45, y: 45}
+    - {x: -45, y: 45}
+    - {x: -50, y: 50}
+    - {x: -20, y: 20}
+    - {x: -45, y: 45}
+    - {x: -45, y: 45}
+    - {x: -20, y: 20}
+    - {x: -25, y: 25}
+    - {x: -40, y: 35}
+    - {x: -40, y: 35}
+    - {x: -50, y: 50}
+    - {x: -20, y: 20}
+    - {x: -45, y: 45}
+    - {x: -45, y: 45}
+    - {x: -50, y: 50}
+    - {x: -7.5, y: 7.5}
+    - {x: -45, y: 45}
+    - {x: -45, y: 45}
+    - {x: -50, y: 50}
+    - {x: -7.5, y: 7.5}
+    - {x: -45, y: 45}
+    - {x: -45, y: 45}
+    - {x: -50, y: 50}
+    - {x: -20, y: 20}
+    - {x: -45, y: 45}
+    - {x: -45, y: 45}
+    boneInfos:
+    - bone: {fileID: 0}
+      humanBoneName: 
+      boneId: 0
+      muscleXId: 0
+      muscleYId: 0
+      muscleZId: 0
+    - bone: {fileID: 0}
+      humanBoneName: LeftUpperLeg
+      boneId: 1
+      muscleXId: 23
+      muscleYId: 22
+      muscleZId: 21
+    - bone: {fileID: 0}
+      humanBoneName: RightUpperLeg
+      boneId: 2
+      muscleXId: 31
+      muscleYId: 30
+      muscleZId: 29
+    - bone: {fileID: 0}
+      humanBoneName: LeftLowerLeg
+      boneId: 3
+      muscleXId: 25
+      muscleYId: -1
+      muscleZId: 24
+    - bone: {fileID: 0}
+      humanBoneName: RightLowerLeg
+      boneId: 4
+      muscleXId: 33
+      muscleYId: -1
+      muscleZId: 32
+    - bone: {fileID: 0}
+      humanBoneName: LeftFoot
+      boneId: 5
+      muscleXId: -1
+      muscleYId: 27
+      muscleZId: 26
+    - bone: {fileID: 0}
+      humanBoneName: RightFoot
+      boneId: 6
+      muscleXId: -1
+      muscleYId: 35
+      muscleZId: 34
+    - bone: {fileID: 0}
+      humanBoneName: Spine
+      boneId: 7
+      muscleXId: 2
+      muscleYId: 1
+      muscleZId: 0
+    - bone: {fileID: 0}
+      humanBoneName: Chest
+      boneId: 8
+      muscleXId: 5
+      muscleYId: 4
+      muscleZId: 3
+    - bone: {fileID: 0}
+      humanBoneName: Neck
+      boneId: 9
+      muscleXId: 11
+      muscleYId: 10
+      muscleZId: 9
+    - bone: {fileID: 0}
+      humanBoneName: Head
+      boneId: 10
+      muscleXId: 14
+      muscleYId: 13
+      muscleZId: 12
+    - bone: {fileID: 0}
+      humanBoneName: LeftShoulder
+      boneId: 11
+      muscleXId: -1
+      muscleYId: 38
+      muscleZId: 37
+    - bone: {fileID: 0}
+      humanBoneName: RightShoulder
+      boneId: 12
+      muscleXId: -1
+      muscleYId: 47
+      muscleZId: 46
+    - bone: {fileID: 0}
+      humanBoneName: LeftUpperArm
+      boneId: 13
+      muscleXId: 41
+      muscleYId: 40
+      muscleZId: 39
+    - bone: {fileID: 0}
+      humanBoneName: RightUpperArm
+      boneId: 14
+      muscleXId: 50
+      muscleYId: 49
+      muscleZId: 48
+    - bone: {fileID: 0}
+      humanBoneName: LeftLowerArm
+      boneId: 15
+      muscleXId: 43
+      muscleYId: -1
+      muscleZId: 42
+    - bone: {fileID: 0}
+      humanBoneName: RightLowerArm
+      boneId: 16
+      muscleXId: 52
+      muscleYId: -1
+      muscleZId: 51
+    - bone: {fileID: 0}
+      humanBoneName: LeftHand
+      boneId: 17
+      muscleXId: -1
+      muscleYId: 45
+      muscleZId: 44
+    - bone: {fileID: 0}
+      humanBoneName: RightHand
+      boneId: 18
+      muscleXId: -1
+      muscleYId: 54
+      muscleZId: 53
+    - bone: {fileID: 0}
+      humanBoneName: LeftToes
+      boneId: 19
+      muscleXId: -1
+      muscleYId: -1
+      muscleZId: 28
+    - bone: {fileID: 0}
+      humanBoneName: RightToes
+      boneId: 20
+      muscleXId: -1
+      muscleYId: -1
+      muscleZId: 36
+    - bone: {fileID: 0}
+      humanBoneName: LeftEye
+      boneId: 21
+      muscleXId: -1
+      muscleYId: 16
+      muscleZId: 15
+    - bone: {fileID: 0}
+      humanBoneName: RightEye
+      boneId: 22
+      muscleXId: -1
+      muscleYId: 18
+      muscleZId: 17
+    - bone: {fileID: 0}
+      humanBoneName: Jaw
+      boneId: 23
+      muscleXId: -1
+      muscleYId: 20
+      muscleZId: 19
+    - bone: {fileID: 0}
+      humanBoneName: Left Thumb Proximal
+      boneId: 24
+      muscleXId: -1
+      muscleYId: 56
+      muscleZId: 55
+    - bone: {fileID: 0}
+      humanBoneName: Left Thumb Intermediate
+      boneId: 25
+      muscleXId: -1
+      muscleYId: -1
+      muscleZId: 57
+    - bone: {fileID: 0}
+      humanBoneName: Left Thumb Distal
+      boneId: 26
+      muscleXId: -1
+      muscleYId: -1
+      muscleZId: 58
+    - bone: {fileID: 0}
+      humanBoneName: Left Index Proximal
+      boneId: 27
+      muscleXId: -1
+      muscleYId: 60
+      muscleZId: 59
+    - bone: {fileID: 0}
+      humanBoneName: Left Index Intermediate
+      boneId: 28
+      muscleXId: -1
+      muscleYId: -1
+      muscleZId: 61
+    - bone: {fileID: 0}
+      humanBoneName: Left Index Distal
+      boneId: 29
+      muscleXId: -1
+      muscleYId: -1
+      muscleZId: 62
+    - bone: {fileID: 0}
+      humanBoneName: Left Middle Proximal
+      boneId: 30
+      muscleXId: -1
+      muscleYId: 64
+      muscleZId: 63
+    - bone: {fileID: 0}
+      humanBoneName: Left Middle Intermediate
+      boneId: 31
+      muscleXId: -1
+      muscleYId: -1
+      muscleZId: 65
+    - bone: {fileID: 0}
+      humanBoneName: Left Middle Distal
+      boneId: 32
+      muscleXId: -1
+      muscleYId: -1
+      muscleZId: 66
+    - bone: {fileID: 0}
+      humanBoneName: Left Ring Proximal
+      boneId: 33
+      muscleXId: -1
+      muscleYId: 68
+      muscleZId: 67
+    - bone: {fileID: 0}
+      humanBoneName: Left Ring Intermediate
+      boneId: 34
+      muscleXId: -1
+      muscleYId: -1
+      muscleZId: 69
+    - bone: {fileID: 0}
+      humanBoneName: Left Ring Distal
+      boneId: 35
+      muscleXId: -1
+      muscleYId: -1
+      muscleZId: 70
+    - bone: {fileID: 0}
+      humanBoneName: Left Little Proximal
+      boneId: 36
+      muscleXId: -1
+      muscleYId: 72
+      muscleZId: 71
+    - bone: {fileID: 0}
+      humanBoneName: Left Little Intermediate
+      boneId: 37
+      muscleXId: -1
+      muscleYId: -1
+      muscleZId: 73
+    - bone: {fileID: 0}
+      humanBoneName: Left Little Distal
+      boneId: 38
+      muscleXId: -1
+      muscleYId: -1
+      muscleZId: 74
+    - bone: {fileID: 0}
+      humanBoneName: Right Thumb Proximal
+      boneId: 39
+      muscleXId: -1
+      muscleYId: 76
+      muscleZId: 75
+    - bone: {fileID: 0}
+      humanBoneName: Right Thumb Intermediate
+      boneId: 40
+      muscleXId: -1
+      muscleYId: -1
+      muscleZId: 77
+    - bone: {fileID: 0}
+      humanBoneName: Right Thumb Distal
+      boneId: 41
+      muscleXId: -1
+      muscleYId: -1
+      muscleZId: 78
+    - bone: {fileID: 0}
+      humanBoneName: Right Index Proximal
+      boneId: 42
+      muscleXId: -1
+      muscleYId: 80
+      muscleZId: 79
+    - bone: {fileID: 0}
+      humanBoneName: Right Index Intermediate
+      boneId: 43
+      muscleXId: -1
+      muscleYId: -1
+      muscleZId: 81
+    - bone: {fileID: 0}
+      humanBoneName: Right Index Distal
+      boneId: 44
+      muscleXId: -1
+      muscleYId: -1
+      muscleZId: 82
+    - bone: {fileID: 0}
+      humanBoneName: Right Middle Proximal
+      boneId: 45
+      muscleXId: -1
+      muscleYId: 84
+      muscleZId: 83
+    - bone: {fileID: 0}
+      humanBoneName: Right Middle Intermediate
+      boneId: 46
+      muscleXId: -1
+      muscleYId: -1
+      muscleZId: 85
+    - bone: {fileID: 0}
+      humanBoneName: Right Middle Distal
+      boneId: 47
+      muscleXId: -1
+      muscleYId: -1
+      muscleZId: 86
+    - bone: {fileID: 0}
+      humanBoneName: Right Ring Proximal
+      boneId: 48
+      muscleXId: -1
+      muscleYId: 88
+      muscleZId: 87
+    - bone: {fileID: 0}
+      humanBoneName: Right Ring Intermediate
+      boneId: 49
+      muscleXId: -1
+      muscleYId: -1
+      muscleZId: 89
+    - bone: {fileID: 0}
+      humanBoneName: Right Ring Distal
+      boneId: 50
+      muscleXId: -1
+      muscleYId: -1
+      muscleZId: 90
+    - bone: {fileID: 0}
+      humanBoneName: Right Little Proximal
+      boneId: 51
+      muscleXId: -1
+      muscleYId: 92
+      muscleZId: 91
+    - bone: {fileID: 0}
+      humanBoneName: Right Little Intermediate
+      boneId: 52
+      muscleXId: -1
+      muscleYId: -1
+      muscleZId: 93
+    - bone: {fileID: 0}
+      humanBoneName: Right Little Distal
+      boneId: 53
+      muscleXId: -1
+      muscleYId: -1
+      muscleZId: 94
+    - bone: {fileID: 0}
+      humanBoneName: UpperChest
+      boneId: 54
+      muscleXId: 8
+      muscleYId: 7
+      muscleZId: 6
+    selected: -1
+    rootSelected: 0
+    focusId: -1
+  scrollPos: {x: 0, y: 0}

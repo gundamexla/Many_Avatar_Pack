@@ -1,0 +1,34 @@
+root ground: 0 48.5 0 0.129 0.02799993 0.3530002 1 1 1
+root hips: 0 0 0 0 0 0 1 1 1
+spine lower: -2.5 0 0 0 0 0 1 1 1
+spine upper: 2 0 0 0 0 0 1 1 1
+head neck upper: 14 -7 1.5 0 0 0 1 1 1
+arm right shoulder 1: 0 0 0 0 0 0 1 1 1
+arm right shoulder 2: 12 -0.5 71.5 0 0 0 1 1 1
+arm right elbow: 0 33 0 0 0 0 1 1 1
+arm right wrist: 5.5 -14 13 0 0 0 1 1 1
+hammer root: 0 0 0 0 0 0 1 1 1
+hammer a: 0 0 0 0 0 0 1 1 1
+hammer b: 0 0 0 0 0 0 1 1 1
+hammer c: 0 0 0 0 0 0 1 1 1
+hammer d: 0 0 0 0 0 0 1 1 1
+hammer head: 0 0 0 0 0 0 1 1 1
+gn blade root: 0 0 0 0 0 0 1 1 1
+arm right shoulder pad: 20 0 -0.5 0 0 0 1 1 1
+arm left shoulder 1: 0 0 0 0 0 0 1 1 1
+arm left shoulder 2: 12 0.5 -71.5 0 0 0 1 1 1
+arm left elbow: 0 -33 0 0 0 0 1 1 1
+arm left wrist: 5.5 14 -13 0 0 0 1 1 1
+gn shield root: 0 0 0 0 0 0 1 1 1
+arm left shoulder pad: 20 0 0.5 0 0 0 1 1 1
+pelvis: 0 0 0 0 0 0 1 1 1
+skirt front right: 0 0 0 0 0 0 1 1 1
+skirt front left: 0 0 0 0 0 0 1 1 1
+leg right thigh: -7 -17.5 -13.5 0 0 0 1 1 1
+leg right knee: 13.5 0 0 0 0 0 1 1 1
+leg right ankle: -6.5 0 13.5 0 0 0 1 1 1
+skirt back right: 0 0 0 0 0 0 1 1 1
+leg left thigh: -7 17.5 13.5 0 0 0 1 1 1
+leg left knee: 13.5 0 0 0 0 0 1 1 1
+leg left ankle: -6.5 0 -13.5 0 0 0 1 1 1
+skirt back left: 0 0 0 0 0 0 1 1 1

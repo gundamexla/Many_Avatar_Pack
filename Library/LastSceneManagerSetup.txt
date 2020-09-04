@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Gundam/Gadessa/Yuuko_Gadessa.unity
+  isLoaded: 1
+  isActive: 1
